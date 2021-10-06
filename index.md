@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 ## Welcome to the MichalKoder's github homepage!
 ### Projects:
 ----
