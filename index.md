@@ -1,4 +1,5 @@
-### My github projects' descriptions:
+## Welcome to the MichalKoder's github homepage!
+### Projects:
 ----
 1. Memory game
 - a classic memory card game with themed pictures. 
