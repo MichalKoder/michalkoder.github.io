@@ -9,7 +9,7 @@
 2. Slide Puzzle
 - a classic slide puzzle which objective is to arrange bricks in a fixed order by sliding them over a grid.  
 [Source Code](https://github.com/MichalKoder/puzzle-eight)  
-[Live Demo](https://michalkoder.github.io/puzzle-eight.git)  
+[Live Demo](https://michalkoder.github.io/puzzle-eight)  
 3. FSM Calculator
 - a javascript calculator that besides its main calculating operation demonstrates how Finite State Machines work. (coming soon)
 
