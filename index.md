@@ -1,9 +1,9 @@
 ## Welcome to the MichalKoder's github homepage!
 ### My Projects:
 ----
-1. Memory game
+1. "Picturesque Memory" card matching game
 - a classic memory card game with themed pictures.  
-[Source Code](https://github.com/MichalKoder/memory-picturesque)  
+[Source Code](https://michalkoder.github.io/memory-picturesque)  
 [Live Demo](https://github.com/MichalKoder/memory-picturesque/index.html)
 2. Slide Puzzle
 - a classic slide puzzle which objective is to arrange bricks in a fixed order by sliding them over a bricks grid.  
