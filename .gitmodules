@@ -1,3 +1,6 @@
 [submodule "memory-picturesque"]
 	path = memory-picturesque
 	url = https://github.com/MichalKoder/memory-picturesque.git
+[submodule "puzzle-eight"]
+	path = puzzle-eight
+	url = https://github.com/MichalKoder/puzzle-eight.git
