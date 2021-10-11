@@ -1,0 +1,3 @@
+[submodule "memory-picturesque"]
+	path = memory-picturesque
+	url = https://github.com/MichalKoder/memory-picturesque.git
