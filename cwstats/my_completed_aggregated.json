@@ -1,0 +1,4645 @@
+{
+    "59b844528bcb7735560000a0": {
+        "name": "Nice Array",
+        "completedAt": "2021-10-14T00:12:02.735Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 7,
+        "tags": [
+            "Fundamentals",
+            "Arrays",
+            "Data Types",
+            "Mathematics",
+            "Algorithms",
+            "Logic",
+            "Numbers"
+        ],
+        "languages": [
+            "javascript",
+            "csharp",
+            "typescript",
+            "python",
+            "coffeescript",
+            "crystal",
+            "ruby",
+            "julia",
+            "dart",
+            "php",
+            "java"
+        ]
+    },
+    "59a96d71dbe3b06c0200009c": {
+        "name": "Build a square",
+        "completedAt": "2021-09-20T06:31:52.746Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 7,
+        "tags": [
+            "Fundamentals",
+            "Loops",
+            "Control Flow",
+            "Basic Language Features",
+            "Conditional Statements"
+        ],
+        "languages": [
+            "javascript",
+            "csharp",
+            "python",
+            "rust",
+            "typescript",
+            "ruby",
+            "c",
+            "java",
+            "julia",
+            "php",
+            "bf",
+            "crystal"
+        ]
+    },
+    "51f9d93b4095e0a7200001b8": {
+        "name": "How many lightsabers do you own?",
+        "completedAt": "2021-09-18T20:19:54.896Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 8,
+        "tags": [
+            "Fundamentals"
+        ],
+        "languages": [
+            "javascript",
+            "coffeescript",
+            "ruby",
+            "python",
+            "clojure",
+            "haskell",
+            "csharp",
+            "elixir",
+            "php",
+            "rust",
+            "c",
+            "typescript",
+            "racket",
+            "julia",
+            "crystal"
+        ]
+    },
+    "582cb0224e56e068d800003c": {
+        "name": "Keep Hydrated!",
+        "completedAt": "2021-09-18T20:01:54.536Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 8,
+        "tags": [
+            "Fundamentals",
+            "Algorithms",
+            "Logic",
+            "Data Types",
+            "Mathematics",
+            "Numbers"
+        ],
+        "languages": [
+            "csharp",
+            "javascript",
+            "c",
+            "haskell",
+            "python",
+            "php",
+            "crystal",
+            "ruby",
+            "sql",
+            "coffeescript",
+            "shell",
+            "java",
+            "nasm",
+            "kotlin",
+            "r",
+            "typescript",
+            "racket",
+            "dart",
+            "factor",
+            "julia",
+            "powershell",
+            "cfml",
+            "elixir",
+            "rust",
+            "fortran",
+            "cpp"
+        ]
+    },
+    "56ed20a2c4e5d69155000301": {
+        "name": "Scaling Squared Strings",
+        "completedAt": "2021-09-17T15:29:14.859Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 7,
+        "tags": [
+            "Fundamentals"
+        ],
+        "languages": [
+            "ruby",
+            "python",
+            "javascript",
+            "coffeescript",
+            "java",
+            "csharp",
+            "haskell",
+            "clojure",
+            "php",
+            "cpp",
+            "crystal",
+            "c",
+            "typescript",
+            "fsharp",
+            "ocaml",
+            "julia",
+            "go",
+            "nim",
+            "racket",
+            "scala",
+            "reason",
+            "pascal",
+            "perl"
+        ]
+    },
+    "54b42f9314d9229fd6000d9c": {
+        "name": "Duplicate Encoder",
+        "completedAt": "2021-09-17T13:03:13.831Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 6,
+        "tags": [
+            "Fundamentals",
+            "Strings",
+            "Data Types",
+            "Arrays"
+        ],
+        "languages": [
+            "java",
+            "javascript",
+            "python",
+            "ruby",
+            "csharp",
+            "php",
+            "rust",
+            "r",
+            "scala",
+            "nim",
+            "c",
+            "elm",
+            "haskell",
+            "typescript",
+            "cpp",
+            "coffeescript",
+            "crystal",
+            "swift",
+            "julia",
+            "go",
+            "clojure"
+        ]
+    },
+    "54e6533c92449cc251001667": {
+        "name": "Unique In Order",
+        "completedAt": "2021-09-17T11:41:51.775Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 6,
+        "tags": [
+            "Fundamentals",
+            "Advanced Language Features",
+            "Algorithms",
+            "Logic"
+        ],
+        "languages": [
+            "python",
+            "ruby",
+            "javascript",
+            "csharp",
+            "php",
+            "clojure",
+            "haskell",
+            "crystal",
+            "rust",
+            "cpp",
+            "scala"
+        ]
+    },
+    "554e4a2f232cdd87d9000038": {
+        "name": "Complementary DNA",
+        "completedAt": "2021-09-17T11:20:50.367Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 7,
+        "tags": [
+            "Fundamentals",
+            "Strings",
+            "Data Types"
+        ],
+        "languages": [
+            "python",
+            "javascript",
+            "ruby",
+            "coffeescript",
+            "java",
+            "haskell",
+            "cpp",
+            "csharp",
+            "crystal",
+            "php",
+            "shell",
+            "rust",
+            "typescript",
+            "clojure",
+            "c",
+            "go",
+            "nasm",
+            "kotlin",
+            "julia",
+            "prolog",
+            "elixir",
+            "r",
+            "scala"
+        ]
+    },
+    "5aa736a455f906981800360d": {
+        "name": "The Feast of Many Beasts",
+        "completedAt": "2021-09-17T09:31:34.396Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 8,
+        "tags": [
+            "Fundamentals",
+            "Strings",
+            "Data Types"
+        ],
+        "languages": [
+            "javascript",
+            "ruby",
+            "python",
+            "typescript",
+            "fortran",
+            "csharp",
+            "crystal",
+            "cpp",
+            "php",
+            "haskell",
+            "java",
+            "rust",
+            "kotlin",
+            "c",
+            "nasm",
+            "go"
+        ]
+    },
+    "5a00e05cc374cb34d100000d": {
+        "name": "Reversed sequence ",
+        "completedAt": "2021-09-17T09:21:12.279Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 8,
+        "tags": [
+            "Fundamentals"
+        ],
+        "languages": [
+            "python",
+            "rust",
+            "csharp",
+            "javascript",
+            "coffeescript",
+            "typescript",
+            "crystal",
+            "ruby",
+            "lua",
+            "php",
+            "cpp",
+            "haskell",
+            "fortran",
+            "nasm",
+            "java",
+            "c",
+            "prolog",
+            "kotlin",
+            "cfml",
+            "swift",
+            "julia"
+        ]
+    },
+    "57089707fe2d01529f00024a": {
+        "name": "Grasshopper - If\/else syntax debug",
+        "completedAt": "2021-09-17T09:03:00.498Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 8,
+        "tags": [
+            "Bugs"
+        ],
+        "languages": [
+            "javascript",
+            "python",
+            "php",
+            "csharp",
+            "ruby",
+            "c"
+        ]
+    },
+    "56e3cd1d93c3d940e50006a4": {
+        "name": "How Green Is My Valley?",
+        "completedAt": "2021-09-17T08:50:18.698Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 7,
+        "tags": [
+            "Fundamentals"
+        ],
+        "languages": [
+            "ruby",
+            "python",
+            "javascript",
+            "coffeescript",
+            "java",
+            "csharp",
+            "haskell",
+            "clojure",
+            "elixir",
+            "cpp",
+            "php",
+            "typescript",
+            "crystal",
+            "fsharp",
+            "c",
+            "shell",
+            "ocaml",
+            "kotlin",
+            "julia",
+            "r",
+            "go",
+            "nim",
+            "rust",
+            "racket",
+            "reason",
+            "vb",
+            "scala",
+            "pascal",
+            "perl"
+        ]
+    },
+    "57a2013acf1fa5bfc4000921": {
+        "name": "Calculate average ",
+        "completedAt": "2021-09-16T23:18:46.484Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 8,
+        "tags": [
+            "Fundamentals",
+            "Functional Programming",
+            "Declarative Programming",
+            "Programming Paradigms"
+        ],
+        "languages": [
+            "haskell",
+            "fsharp",
+            "python",
+            "c",
+            "csharp",
+            "javascript",
+            "php",
+            "clojure",
+            "crystal",
+            "java",
+            "typescript",
+            "cpp",
+            "nasm",
+            "rust"
+        ]
+    },
+    "5865918c6b569962950002a1": {
+        "name": "All Star Code Challenge #18",
+        "completedAt": "2021-09-16T23:14:15.318Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 8,
+        "tags": [
+            "Fundamentals"
+        ],
+        "languages": [
+            "javascript",
+            "python",
+            "ruby",
+            "cpp",
+            "java",
+            "csharp",
+            "crystal",
+            "php",
+            "c",
+            "coffeescript"
+        ]
+    },
+    "55983863da40caa2c900004e": {
+        "name": "Next bigger number with the same digits",
+        "completedAt": "2021-09-14T15:45:47.048Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 4,
+        "tags": [
+            "Refactoring",
+            "Numbers",
+            "Data Types",
+            "Strings",
+            "Integers"
+        ],
+        "languages": [
+            "javascript",
+            "python",
+            "ruby",
+            "csharp",
+            "coffeescript",
+            "java",
+            "kotlin",
+            "rust",
+            "haskell",
+            "c",
+            "swift",
+            "go",
+            "typescript",
+            "julia",
+            "crystal",
+            "groovy",
+            "php",
+            "vb"
+        ]
+    },
+    "60908bc1d5811f0025474291": {
+        "name": "Find the Squares",
+        "completedAt": "2021-09-14T12:29:54.565Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 7,
+        "tags": [
+            "Algorithms",
+            "Mathematics",
+            "Logic",
+            "Numbers",
+            "Data Types"
+        ],
+        "languages": [
+            "javascript",
+            "php",
+            "python",
+            "java",
+            "powershell",
+            "csharp",
+            "typescript",
+            "ruby"
+        ]
+    },
+    "521c2db8ddc89b9b7a0000c1": {
+        "name": "Snail",
+        "completedAt": "2021-09-14T06:13:52.389Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 4,
+        "tags": [
+            "Algorithms",
+            "Arrays",
+            "Data Types"
+        ],
+        "languages": [
+            "ruby",
+            "coffeescript",
+            "javascript",
+            "python",
+            "haskell",
+            "elixir",
+            "ocaml",
+            "php",
+            "scala",
+            "java",
+            "cpp",
+            "csharp",
+            "nasm",
+            "c",
+            "cfml",
+            "crystal",
+            "go",
+            "rust",
+            "prolog"
+        ]
+    },
+    "54ff0d1f355cfd20e60001fc": {
+        "name": "Factorial",
+        "completedAt": "2021-09-13T17:02:16.502Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 7,
+        "tags": [
+            "Fundamentals",
+            "Algorithms",
+            "Logic",
+            "Numbers",
+            "Data Types"
+        ],
+        "languages": [
+            "csharp",
+            "java",
+            "javascript",
+            "php",
+            "python",
+            "c"
+        ]
+    },
+    "5875b200d520904a04000003": {
+        "name": "Will there be enough space?",
+        "completedAt": "2021-09-13T16:47:29.878Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 8,
+        "tags": [
+            "Fundamentals",
+            "Numbers",
+            "Data Types"
+        ],
+        "languages": [
+            "python",
+            "javascript",
+            "java",
+            "c",
+            "csharp",
+            "typescript",
+            "lua",
+            "ruby",
+            "php",
+            "racket",
+            "rust",
+            "prolog",
+            "crystal",
+            "julia",
+            "r",
+            "coffeescript"
+        ]
+    },
+    "57faece99610ced690000165": {
+        "name": "Exclamation marks series #2: Remove all exclamation marks from the end of sentence",
+        "completedAt": "2021-09-13T16:41:00.716Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 8,
+        "tags": [
+            "Fundamentals"
+        ],
+        "languages": [
+            "javascript",
+            "python",
+            "coffeescript",
+            "php",
+            "haskell",
+            "csharp",
+            "ruby"
+        ]
+    },
+    "5b853229cfde412a470000d0": {
+        "name": "Twice as old",
+        "completedAt": "2021-09-13T16:39:23.008Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 8,
+        "tags": [
+            "Fundamentals",
+            "Mathematics",
+            "Algorithms",
+            "Logic",
+            "Numbers",
+            "Data Types"
+        ],
+        "languages": [
+            "python",
+            "ruby",
+            "php",
+            "java",
+            "javascript",
+            "shell",
+            "cpp",
+            "nasm",
+            "haskell",
+            "scala",
+            "csharp",
+            "kotlin",
+            "go",
+            "haxe",
+            "ocaml",
+            "coffeescript",
+            "crystal",
+            "julia",
+            "r"
+        ]
+    },
+    "55a2d7ebe362935a210000b2": {
+        "name": "Find the smallest integer in the array",
+        "completedAt": "2021-09-13T16:08:37.748Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 8,
+        "tags": [
+            "Fundamentals"
+        ],
+        "languages": [
+            "java",
+            "javascript",
+            "python",
+            "csharp",
+            "php",
+            "r",
+            "typescript",
+            "ruby",
+            "crystal",
+            "scala",
+            "kotlin",
+            "haskell",
+            "coffeescript",
+            "cpp",
+            "nasm",
+            "rust",
+            "c",
+            "racket",
+            "julia",
+            "go"
+        ]
+    },
+    "5390bac347d09b7da40006f6": {
+        "name": "Jaden Casing Strings",
+        "completedAt": "2021-09-13T16:00:43.825Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 7,
+        "tags": [
+            "Fundamentals",
+            "Strings",
+            "Data Types",
+            "Arrays"
+        ],
+        "languages": [
+            "javascript",
+            "python",
+            "ruby",
+            "coffeescript",
+            "haskell",
+            "java",
+            "clojure",
+            "php",
+            "csharp",
+            "typescript",
+            "crystal",
+            "swift",
+            "julia",
+            "go"
+        ]
+    },
+    "5513795bd3fafb56c200049e": {
+        "name": "Count by X",
+        "completedAt": "2021-09-13T15:57:04.048Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 8,
+        "tags": [
+            "Fundamentals",
+            "Arrays",
+            "Data Types",
+            "Numbers"
+        ],
+        "languages": [
+            "javascript",
+            "python",
+            "ruby",
+            "haskell",
+            "elixir",
+            "coffeescript",
+            "csharp",
+            "solidity",
+            "php",
+            "groovy",
+            "dart",
+            "crystal",
+            "racket",
+            "cpp",
+            "nasm"
+        ]
+    },
+    "50ee6b0bdeab583673000025": {
+        "name": "Basic variable assignment",
+        "completedAt": "2021-09-13T15:53:08.644Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 8,
+        "tags": [
+            "Bugs"
+        ],
+        "languages": [
+            "ruby",
+            "javascript",
+            "php",
+            "csharp",
+            "haskell",
+            "coffeescript",
+            "python",
+            "fsharp",
+            "c",
+            "dart",
+            "groovy",
+            "julia",
+            "java",
+            "cpp",
+            "racket",
+            "crystal",
+            "typescript",
+            "r",
+            "cobol",
+            "go"
+        ]
+    },
+    "57cc981a58da9e302a000214": {
+        "name": "Small enough? - Beginner",
+        "completedAt": "2021-09-13T15:50:39.250Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 7,
+        "tags": [
+            "Fundamentals",
+            "Booleans",
+            "Data Types",
+            "Numbers",
+            "Arrays"
+        ],
+        "languages": [
+            "javascript",
+            "csharp",
+            "python",
+            "haskell",
+            "ruby",
+            "php",
+            "kotlin",
+            "r",
+            "nasm",
+            "c",
+            "groovy",
+            "java",
+            "crystal",
+            "coffeescript",
+            "julia",
+            "cpp",
+            "scala",
+            "perl"
+        ]
+    },
+    "56f253dd75e340ff670002ac": {
+        "name": "Composing squared strings",
+        "completedAt": "2021-09-13T10:48:57.290Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 7,
+        "tags": [
+            "Fundamentals"
+        ],
+        "languages": [
+            "ruby",
+            "python",
+            "javascript",
+            "coffeescript",
+            "java",
+            "csharp",
+            "haskell",
+            "clojure",
+            "php",
+            "cpp",
+            "crystal",
+            "c",
+            "typescript",
+            "fsharp",
+            "ocaml",
+            "julia",
+            "go",
+            "nim",
+            "reason",
+            "racket",
+            "scala",
+            "perl"
+        ]
+    },
+    "59d0ee709f0cbcf65400003b": {
+        "name": "Address Book by State",
+        "completedAt": "2021-09-13T09:49:28.733Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 6,
+        "tags": [
+            "Fundamentals",
+            "Strings",
+            "Data Types"
+        ],
+        "languages": [
+            "shell",
+            "javascript",
+            "python",
+            "ruby",
+            "powershell",
+            "go",
+            "nim",
+            "php",
+            "java",
+            "csharp",
+            "rust",
+            "clojure",
+            "typescript",
+            "fsharp",
+            "scala",
+            "kotlin",
+            "racket",
+            "perl"
+        ]
+    },
+    "57eadb7ecd143f4c9c0000a3": {
+        "name": "Abbreviate a Two Word Name",
+        "completedAt": "2021-09-13T06:14:39.429Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 8,
+        "tags": [
+            "Fundamentals",
+            "Strings",
+            "Data Types",
+            "Arrays"
+        ],
+        "languages": [
+            "javascript",
+            "csharp",
+            "ruby",
+            "python",
+            "nasm",
+            "java",
+            "rust",
+            "cpp",
+            "php",
+            "haskell",
+            "typescript",
+            "go",
+            "purescript",
+            "factor",
+            "coffeescript",
+            "crystal",
+            "julia",
+            "r",
+            "kotlin",
+            "c"
+        ]
+    },
+    "586909e4c66d18dd1800009b": {
+        "name": "Currying functions: multiply all elements in an array",
+        "completedAt": "2021-09-12T22:07:41.334Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 7,
+        "tags": [
+            "Fundamentals",
+            "Closures",
+            "Basic Language Features",
+            "Functional Programming",
+            "Declarative Programming",
+            "Programming Paradigms"
+        ],
+        "languages": [
+            "javascript",
+            "php",
+            "csharp",
+            "elixir",
+            "python",
+            "scala",
+            "java"
+        ]
+    },
+    "53369039d7ab3ac506000467": {
+        "name": "Convert boolean values to strings 'Yes' or 'No'.",
+        "completedAt": "2021-09-12T21:17:22.620Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 8,
+        "tags": [
+            "Fundamentals",
+            "Booleans",
+            "Data Types",
+            "Best Practices"
+        ],
+        "languages": [
+            "ruby",
+            "python",
+            "haskell",
+            "java",
+            "javascript",
+            "csharp",
+            "elixir",
+            "cpp",
+            "c",
+            "php",
+            "typescript",
+            "go",
+            "julia",
+            "nasm",
+            "dart",
+            "racket",
+            "prolog",
+            "swift",
+            "crystal",
+            "scala",
+            "rust",
+            "coffeescript",
+            "r"
+        ]
+    },
+    "5949481f86420f59480000e7": {
+        "name": "Odd or Even?",
+        "completedAt": "2021-09-12T21:14:28.120Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 7,
+        "tags": [
+            "Fundamentals",
+            "Arithmetic",
+            "Mathematics",
+            "Algorithms",
+            "Logic",
+            "Numbers",
+            "Arrays",
+            "Data Types"
+        ],
+        "languages": [
+            "javascript",
+            "java",
+            "crystal",
+            "csharp",
+            "haskell",
+            "php",
+            "python",
+            "ruby",
+            "groovy",
+            "nasm",
+            "rust",
+            "julia",
+            "typescript",
+            "prolog",
+            "c",
+            "cfml",
+            "clojure",
+            "cpp",
+            "coffeescript",
+            "dart"
+        ]
+    },
+    "56bc28ad5bdaeb48760009b0": {
+        "name": "Remove First and Last Character",
+        "completedAt": "2021-09-12T20:59:19.899Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 8,
+        "tags": [
+            "Fundamentals",
+            "Basic Language Features",
+            "Strings",
+            "Data Types"
+        ],
+        "languages": [
+            "javascript",
+            "ruby",
+            "python",
+            "coffeescript",
+            "csharp",
+            "haskell",
+            "typescript",
+            "php",
+            "c",
+            "bf",
+            "shell",
+            "java",
+            "elixir",
+            "cpp",
+            "go",
+            "scala",
+            "nasm",
+            "kotlin",
+            "julia",
+            "racket",
+            "rust",
+            "prolog",
+            "cfml",
+            "crystal",
+            "lua",
+            "r"
+        ]
+    },
+    "57a0885cbb9944e24c00008e": {
+        "name": "Remove exclamation marks",
+        "completedAt": "2021-09-12T20:45:27.825Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 8,
+        "tags": [
+            "Fundamentals"
+        ],
+        "languages": [
+            "haskell",
+            "fsharp",
+            "javascript",
+            "php",
+            "ruby",
+            "python",
+            "java",
+            "coffeescript",
+            "elixir",
+            "crystal",
+            "csharp",
+            "cpp",
+            "julia",
+            "c",
+            "r"
+        ]
+    },
+    "515e271a311df0350d00000f": {
+        "name": "Square(n) Sum",
+        "completedAt": "2021-09-12T20:33:54.875Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 8,
+        "tags": [
+            "Fundamentals",
+            "Arithmetic",
+            "Mathematics",
+            "Algorithms",
+            "Logic",
+            "Numbers",
+            "Arrays",
+            "Data Types",
+            "Lists",
+            "Data Structures"
+        ],
+        "languages": [
+            "javascript",
+            "coffeescript",
+            "ruby",
+            "haskell",
+            "python",
+            "dart",
+            "rust",
+            "cpp",
+            "crystal",
+            "csharp",
+            "nasm",
+            "c",
+            "php",
+            "java",
+            "scala",
+            "julia",
+            "racket",
+            "elixir",
+            "typescript",
+            "go",
+            "prolog",
+            "r",
+            "cfml",
+            "clojure",
+            "swift"
+        ]
+    },
+    "513e08acc600c94f01000001": {
+        "name": "RGB To Hex Conversion",
+        "completedAt": "2021-09-12T19:45:59.361Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 5,
+        "tags": [
+            "Algorithms"
+        ],
+        "languages": [
+            "javascript",
+            "coffeescript",
+            "ruby",
+            "python",
+            "csharp",
+            "cpp",
+            "r",
+            "dart",
+            "fsharp",
+            "c",
+            "swift",
+            "nasm",
+            "lua",
+            "julia",
+            "kotlin",
+            "scala",
+            "rust",
+            "php",
+            "elixir",
+            "racket",
+            "clojure"
+        ]
+    },
+    "5bc7bb444be9774f100000c3": {
+        "name": "Versions manager",
+        "completedAt": "2021-09-12T13:49:08.923Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 6,
+        "tags": [
+            "Algorithms",
+            "Logic",
+            "Arrays",
+            "Data Types",
+            "Strings"
+        ],
+        "languages": [
+            "javascript",
+            "java",
+            "php",
+            "python"
+        ]
+    },
+    "546f922b54af40e1e90001da": {
+        "name": "Replace With Alphabet Position",
+        "completedAt": "2021-09-12T09:19:44.031Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 6,
+        "tags": [
+            "Fundamentals",
+            "Strings",
+            "Data Types"
+        ],
+        "languages": [
+            "python",
+            "javascript",
+            "csharp",
+            "php",
+            "c",
+            "ruby",
+            "rust",
+            "scala",
+            "nasm",
+            "groovy"
+        ]
+    },
+    "5667e8f4e3f572a8f2000039": {
+        "name": "Mumbling",
+        "completedAt": "2021-09-12T08:16:18.908Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 7,
+        "tags": [
+            "Fundamentals"
+        ],
+        "languages": [
+            "ruby",
+            "python",
+            "javascript",
+            "haskell",
+            "csharp",
+            "java",
+            "clojure",
+            "coffeescript",
+            "elixir",
+            "typescript",
+            "cpp",
+            "php",
+            "crystal",
+            "fsharp",
+            "c",
+            "swift",
+            "go",
+            "rust",
+            "r",
+            "shell",
+            "ocaml",
+            "kotlin",
+            "scala",
+            "groovy",
+            "julia",
+            "powershell",
+            "nim",
+            "reason",
+            "racket",
+            "dart",
+            "elm",
+            "pascal",
+            "lua",
+            "perl"
+        ]
+    },
+    "578aa45ee9fd15ff4600090d": {
+        "name": "Sort the odd",
+        "completedAt": "2021-09-12T07:59:51.491Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 6,
+        "tags": [
+            "Fundamentals",
+            "Arrays",
+            "Data Types"
+        ],
+        "languages": [
+            "javascript",
+            "python",
+            "csharp",
+            "cpp",
+            "haskell",
+            "java",
+            "ruby",
+            "clojure",
+            "elixir",
+            "rust",
+            "php"
+        ]
+    },
+    "57a0e5c372292dd76d000d7e": {
+        "name": "String repeat",
+        "completedAt": "2021-09-12T07:04:41.804Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 8,
+        "tags": [
+            "Fundamentals"
+        ],
+        "languages": [
+            "haskell",
+            "python",
+            "fsharp",
+            "javascript",
+            "csharp",
+            "php",
+            "clojure",
+            "c",
+            "ruby",
+            "typescript",
+            "crystal",
+            "swift",
+            "java",
+            "coffeescript",
+            "rust",
+            "go",
+            "shell",
+            "lua",
+            "elixir",
+            "solidity",
+            "scala",
+            "nasm",
+            "nim",
+            "julia",
+            "kotlin",
+            "dart",
+            "racket",
+            "reason",
+            "factor",
+            "cpp"
+        ]
+    },
+    "55a70521798b14d4750000a4": {
+        "name": "Returning Strings",
+        "completedAt": "2021-09-12T06:57:12.934Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 8,
+        "tags": [
+            "Fundamentals",
+            "Strings",
+            "Data Types"
+        ],
+        "languages": [
+            "python",
+            "ruby",
+            "cpp",
+            "crystal",
+            "javascript",
+            "nasm",
+            "php",
+            "haskell",
+            "scala",
+            "csharp",
+            "typescript",
+            "lua",
+            "kotlin",
+            "rust",
+            "sql",
+            "shell",
+            "go",
+            "julia",
+            "java",
+            "groovy",
+            "coffeescript",
+            "swift",
+            "clojure",
+            "r"
+        ]
+    },
+    "526c7363236867513f0005ca": {
+        "name": "Leap Years",
+        "completedAt": "2021-09-12T06:50:29.013Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 7,
+        "tags": [
+            "Algorithms",
+            "Dates\/Time",
+            "Data Types"
+        ],
+        "languages": [
+            "javascript",
+            "coffeescript",
+            "csharp",
+            "python",
+            "ruby",
+            "haskell",
+            "c",
+            "kotlin",
+            "groovy",
+            "cpp",
+            "nasm",
+            "rust",
+            "php",
+            "scala",
+            "julia"
+        ]
+    },
+    "57cc975ed542d3148f00015b": {
+        "name": "You only need one - Beginner",
+        "completedAt": "2021-09-11T00:09:23.639Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 8,
+        "tags": [
+            "Fundamentals",
+            "Booleans",
+            "Data Types",
+            "Strings",
+            "Numbers",
+            "Arrays"
+        ],
+        "languages": [
+            "javascript",
+            "csharp",
+            "python",
+            "ruby",
+            "crystal",
+            "php",
+            "haskell",
+            "scala",
+            "swift",
+            "java",
+            "coffeescript",
+            "racket",
+            "factor",
+            "julia",
+            "typescript"
+        ]
+    },
+    "56e7d40129035aed6c000632": {
+        "name": "Easy Line",
+        "completedAt": "2021-09-10T23:04:28.765Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 7,
+        "tags": [
+            "Fundamentals",
+            "Mathematics",
+            "Algorithms",
+            "Logic",
+            "Numbers"
+        ],
+        "languages": [
+            "clojure",
+            "ruby",
+            "python",
+            "javascript",
+            "coffeescript",
+            "haskell",
+            "java",
+            "csharp",
+            "elixir",
+            "typescript",
+            "cpp",
+            "php",
+            "crystal",
+            "fsharp",
+            "c",
+            "ocaml",
+            "r",
+            "nim",
+            "shell",
+            "kotlin",
+            "julia",
+            "go",
+            "racket",
+            "vb",
+            "scala",
+            "fortran",
+            "perl"
+        ]
+    },
+    "50654ddff44f800200000007": {
+        "name": "Short Long Short",
+        "completedAt": "2021-09-10T11:19:57.970Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 8,
+        "tags": [
+            "Algorithms"
+        ],
+        "languages": [
+            "javascript",
+            "coffeescript",
+            "ruby",
+            "elixir",
+            "typescript",
+            "csharp",
+            "python",
+            "php",
+            "r",
+            "haskell"
+        ]
+    },
+    "5d2d0d34bceae80027bffddb": {
+        "name": "Sort Strings by Most Contiguous Vowels",
+        "completedAt": "2021-09-10T11:01:02.261Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 6,
+        "tags": [
+            "Fundamentals"
+        ],
+        "languages": [
+            "javascript",
+            "haskell",
+            "php",
+            "shell",
+            "clojure",
+            "python",
+            "julia"
+        ]
+    },
+    "523f5d21c841566fde000009": {
+        "name": "Array.diff",
+        "completedAt": "2021-09-10T07:56:33.771Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 6,
+        "tags": [
+            "Fundamentals",
+            "Arrays",
+            "Data Types"
+        ],
+        "languages": [
+            "javascript",
+            "coffeescript",
+            "haskell",
+            "ruby",
+            "python",
+            "csharp",
+            "rust",
+            "clojure",
+            "php",
+            "groovy",
+            "julia",
+            "nim",
+            "r",
+            "elixir",
+            "fsharp",
+            "prolog",
+            "c",
+            "java",
+            "crystal",
+            "scala",
+            "typescript"
+        ]
+    },
+    "550f22f4d758534c1100025a": {
+        "name": "Directions Reduction",
+        "completedAt": "2021-09-09T18:16:20.181Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 5,
+        "tags": [
+            "Fundamentals"
+        ],
+        "languages": [
+            "ruby",
+            "javascript",
+            "haskell",
+            "python",
+            "java",
+            "coffeescript",
+            "csharp",
+            "clojure",
+            "cpp",
+            "php",
+            "crystal",
+            "fsharp",
+            "rust",
+            "c",
+            "typescript",
+            "swift",
+            "shell",
+            "r",
+            "objc",
+            "ocaml",
+            "elixir",
+            "lua",
+            "julia",
+            "scala",
+            "powershell",
+            "go",
+            "nim",
+            "racket",
+            "reason",
+            "kotlin",
+            "prolog",
+            "haxe",
+            "pascal",
+            "perl"
+        ]
+    },
+    "5663f5305102699bad000056": {
+        "name": "Maximum Length Difference",
+        "completedAt": "2021-09-09T08:20:07.232Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 7,
+        "tags": [
+            "Fundamentals"
+        ],
+        "languages": [
+            "ruby",
+            "python",
+            "javascript",
+            "coffeescript",
+            "csharp",
+            "haskell",
+            "java",
+            "clojure",
+            "cpp",
+            "php",
+            "crystal",
+            "c",
+            "typescript",
+            "fsharp",
+            "shell",
+            "ocaml",
+            "kotlin",
+            "elixir",
+            "julia",
+            "r",
+            "scala",
+            "powershell",
+            "go",
+            "nim",
+            "rust",
+            "reason",
+            "racket",
+            "haxe",
+            "pascal",
+            "perl"
+        ]
+    },
+    "5506b230a11c0aeab3000c1f": {
+        "name": "Deodorant Evaporator",
+        "completedAt": "2021-09-09T08:01:32.077Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 7,
+        "tags": [
+            "Fundamentals"
+        ],
+        "languages": [
+            "ruby",
+            "python",
+            "java",
+            "csharp",
+            "clojure",
+            "javascript",
+            "haskell",
+            "coffeescript",
+            "elixir",
+            "typescript",
+            "cpp",
+            "php",
+            "crystal",
+            "fsharp",
+            "c",
+            "r",
+            "shell",
+            "ocaml",
+            "fortran",
+            "julia",
+            "scala",
+            "powershell",
+            "kotlin",
+            "go",
+            "nim",
+            "rust",
+            "racket",
+            "dart",
+            "forth",
+            "haxe",
+            "pascal",
+            "perl"
+        ]
+    },
+    "55466989aeecab5aac00003e": {
+        "name": "Rectangle into Squares",
+        "completedAt": "2021-09-09T07:32:30.653Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 6,
+        "tags": [
+            "Puzzles",
+            "Fundamentals",
+            "Geometry",
+            "Algebra",
+            "Mathematics",
+            "Algorithms",
+            "Logic"
+        ],
+        "languages": [
+            "python",
+            "ruby",
+            "java",
+            "csharp",
+            "clojure",
+            "javascript",
+            "haskell",
+            "coffeescript",
+            "cpp",
+            "elixir",
+            "typescript",
+            "php",
+            "crystal",
+            "fsharp",
+            "c",
+            "rust",
+            "swift",
+            "r",
+            "shell",
+            "ocaml",
+            "fortran",
+            "julia",
+            "scala",
+            "powershell",
+            "go",
+            "nim",
+            "kotlin",
+            "racket",
+            "reason",
+            "pascal",
+            "factor",
+            "raku",
+            "perl"
+        ]
+    },
+    "5259b20d6021e9e14c0010d4": {
+        "name": "Reverse words",
+        "completedAt": "2021-09-08T21:04:44.455Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 7,
+        "tags": [
+            "Fundamentals",
+            "Strings",
+            "Data Types"
+        ],
+        "languages": [
+            "javascript",
+            "python",
+            "haskell",
+            "csharp",
+            "ruby",
+            "java",
+            "typescript",
+            "rust",
+            "c",
+            "cpp",
+            "julia",
+            "php",
+            "go"
+        ]
+    },
+    "51c8991dee245d7ddf00000e": {
+        "name": "Reversed Words",
+        "completedAt": "2021-09-08T20:55:17.562Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 8,
+        "tags": [
+            "Algorithms",
+            "Strings",
+            "Data Types"
+        ],
+        "languages": [
+            "ruby",
+            "javascript",
+            "haskell",
+            "coffeescript",
+            "python",
+            "csharp",
+            "shell",
+            "rust",
+            "java",
+            "fsharp",
+            "scala",
+            "php",
+            "julia",
+            "kotlin",
+            "lua",
+            "racket",
+            "typescript",
+            "clojure",
+            "crystal",
+            "cpp",
+            "r",
+            "go"
+        ]
+    },
+    "5174a4c0f2769dd8b1000003": {
+        "name": "Sort Numbers",
+        "completedAt": "2021-09-08T20:45:04.988Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 7,
+        "tags": [
+            "Fundamentals"
+        ],
+        "languages": [
+            "javascript",
+            "coffeescript",
+            "ruby",
+            "python",
+            "csharp",
+            "rust",
+            "haskell",
+            "typescript",
+            "r",
+            "cpp",
+            "clojure",
+            "julia",
+            "php",
+            "go"
+        ]
+    },
+    "55225023e1be1ec8bc000390": {
+        "name": "Jenny's secret message",
+        "completedAt": "2021-09-08T20:33:25.648Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 8,
+        "tags": [
+            "Bugs",
+            "Conditional Statements",
+            "Control Flow",
+            "Basic Language Features",
+            "Fundamentals"
+        ],
+        "languages": [
+            "javascript",
+            "haskell",
+            "ruby",
+            "coffeescript",
+            "python",
+            "csharp",
+            "java",
+            "cpp",
+            "rust",
+            "php",
+            "shell",
+            "typescript",
+            "go",
+            "elixir"
+        ]
+    },
+    "54da5a58ea159efa38000836": {
+        "name": "Find the odd int",
+        "completedAt": "2021-09-08T20:29:23.651Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 6,
+        "tags": [
+            "Fundamentals"
+        ],
+        "languages": [
+            "java",
+            "haskell",
+            "javascript",
+            "python",
+            "ruby",
+            "typescript",
+            "php",
+            "csharp",
+            "fsharp",
+            "clojure",
+            "nasm",
+            "coffeescript",
+            "crystal",
+            "cpp",
+            "scala",
+            "julia",
+            "racket",
+            "go",
+            "prolog",
+            "elixir",
+            "pascal",
+            "swift",
+            "groovy",
+            "c"
+        ]
+    },
+    "555086d53eac039a2a000083": {
+        "name": "Opposites Attract",
+        "completedAt": "2021-09-08T20:15:23.217Z",
+        "completedLanguages": [
+            "php",
+            "javascript"
+        ],
+        "rank": 8,
+        "tags": [
+            "Fundamentals"
+        ],
+        "languages": [
+            "javascript",
+            "csharp",
+            "python",
+            "haskell",
+            "coffeescript",
+            "ruby",
+            "elixir",
+            "php",
+            "java",
+            "scala",
+            "groovy",
+            "julia",
+            "kotlin",
+            "crystal",
+            "erlang",
+            "cpp",
+            "typescript",
+            "c",
+            "r"
+        ]
+    },
+    "515f51d438015969f7000013": {
+        "name": "Pyramid Array",
+        "completedAt": "2021-09-08T07:42:37.143Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 6,
+        "tags": [
+            "Algorithms"
+        ],
+        "languages": [
+            "ruby",
+            "python",
+            "javascript",
+            "csharp",
+            "haskell",
+            "swift",
+            "go",
+            "factor",
+            "groovy",
+            "scala",
+            "clojure",
+            "coffeescript",
+            "crystal",
+            "dart",
+            "elixir",
+            "elm",
+            "julia",
+            "lua",
+            "php",
+            "racket",
+            "reason",
+            "typescript",
+            "cpp",
+            "rust",
+            "c"
+        ]
+    },
+    "51ba717bb08c1cd60f00002f": {
+        "name": "Range Extraction",
+        "completedAt": "2021-09-07T12:53:08.336Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 4,
+        "tags": [
+            "Algorithms",
+            "String Formatting",
+            "Formatting",
+            "Logic",
+            "Strings"
+        ],
+        "languages": [
+            "javascript",
+            "coffeescript",
+            "ruby",
+            "go",
+            "python",
+            "java",
+            "haskell",
+            "csharp",
+            "cpp",
+            "julia",
+            "kotlin",
+            "rust",
+            "scala",
+            "racket",
+            "c",
+            "nasm",
+            "nim",
+            "php"
+        ]
+    },
+    "576757b1df89ecf5bd00073b": {
+        "name": "Build Tower",
+        "completedAt": "2021-09-06T08:14:42.893Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 6,
+        "tags": [
+            "Fundamentals",
+            "Strings",
+            "Data Types",
+            "Basic Language Features"
+        ],
+        "languages": [
+            "python",
+            "javascript",
+            "csharp",
+            "php",
+            "cpp",
+            "haskell",
+            "ruby",
+            "lua",
+            "coffeescript",
+            "julia",
+            "crystal",
+            "typescript"
+        ]
+    },
+    "588e2a1ad1140d31cb00008c": {
+        "name": "Pairs of integers from m to n",
+        "completedAt": "2021-09-03T07:00:34.951Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 7,
+        "tags": [
+            "Fundamentals"
+        ],
+        "languages": [
+            "javascript",
+            "php",
+            "python",
+            "ruby",
+            "c"
+        ]
+    },
+    "5700c9acc1555755be00027e": {
+        "name": "All Inclusive?",
+        "completedAt": "2021-09-03T06:54:16.317Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 7,
+        "tags": [
+            "Fundamentals",
+            "Strings",
+            "Data Types"
+        ],
+        "languages": [
+            "ruby",
+            "python",
+            "javascript",
+            "coffeescript",
+            "java",
+            "csharp",
+            "haskell",
+            "clojure",
+            "elixir",
+            "typescript",
+            "cpp",
+            "php",
+            "crystal",
+            "fsharp",
+            "c",
+            "ocaml",
+            "r",
+            "shell",
+            "kotlin",
+            "scala",
+            "julia",
+            "powershell",
+            "go",
+            "nim",
+            "rust",
+            "racket",
+            "vb",
+            "perl"
+        ]
+    },
+    "554b4ac871d6813a03000035": {
+        "name": "Highest and Lowest",
+        "completedAt": "2021-09-03T06:03:39.690Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 7,
+        "tags": [
+            "Fundamentals",
+            "Strings",
+            "Data Types"
+        ],
+        "languages": [
+            "csharp",
+            "javascript",
+            "python",
+            "ruby",
+            "java",
+            "coffeescript",
+            "haskell",
+            "rust",
+            "typescript",
+            "fsharp",
+            "go",
+            "kotlin",
+            "php",
+            "crystal",
+            "cpp",
+            "elixir",
+            "julia",
+            "r",
+            "clojure"
+        ]
+    },
+    "559e3224324a2b6e66000046": {
+        "name": "Functions of Integers on Cartesian Plane",
+        "completedAt": "2021-08-31T07:16:29.255Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 7,
+        "tags": [
+            "Fundamentals"
+        ],
+        "languages": [
+            "ruby",
+            "python",
+            "java",
+            "haskell",
+            "clojure",
+            "javascript",
+            "coffeescript",
+            "csharp",
+            "typescript",
+            "cpp",
+            "elixir",
+            "php",
+            "crystal",
+            "fsharp",
+            "c",
+            "ocaml",
+            "r",
+            "powershell",
+            "go",
+            "julia",
+            "nim",
+            "racket",
+            "forth",
+            "dart",
+            "scala",
+            "elm",
+            "factor",
+            "perl"
+        ]
+    },
+    "51f2d1cafc9c0f745c00037d": {
+        "name": "String ends with?",
+        "completedAt": "2021-08-30T21:27:26.909Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 7,
+        "tags": [
+            "Fundamentals",
+            "Strings",
+            "Data Types"
+        ],
+        "languages": [
+            "javascript",
+            "coffeescript",
+            "python",
+            "ruby",
+            "csharp",
+            "c",
+            "elixir",
+            "rust",
+            "java",
+            "typescript",
+            "cpp",
+            "haskell",
+            "php",
+            "crystal",
+            "go",
+            "prolog",
+            "clojure",
+            "lua"
+        ]
+    },
+    "57cfdf34902f6ba3d300001e": {
+        "name": "Sort and Star",
+        "completedAt": "2021-08-30T20:57:38.766Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 8,
+        "tags": [
+            "Fundamentals",
+            "Strings",
+            "Data Types",
+            "Arrays"
+        ],
+        "languages": [
+            "javascript",
+            "csharp",
+            "cpp",
+            "ruby",
+            "clojure",
+            "python",
+            "java",
+            "rust",
+            "php",
+            "typescript",
+            "coffeescript",
+            "crystal",
+            "julia",
+            "go",
+            "r"
+        ]
+    },
+    "56484848ba95170a8000004d": {
+        "name": "Speed Control",
+        "completedAt": "2021-08-16T08:07:53.770Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 7,
+        "tags": [
+            "Fundamentals"
+        ],
+        "languages": [
+            "ruby",
+            "python",
+            "javascript",
+            "haskell",
+            "csharp",
+            "java",
+            "coffeescript",
+            "clojure",
+            "cpp",
+            "php",
+            "elixir",
+            "crystal",
+            "fsharp",
+            "c",
+            "typescript",
+            "ocaml",
+            "shell",
+            "kotlin",
+            "julia",
+            "r",
+            "powershell",
+            "go",
+            "nim",
+            "rust",
+            "reason",
+            "racket",
+            "scala",
+            "dart",
+            "lua",
+            "perl"
+        ]
+    },
+    "56a5d994ac971f1ac500003e": {
+        "name": "Consecutive strings",
+        "completedAt": "2021-08-16T00:26:08.128Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 6,
+        "tags": [
+            "Fundamentals"
+        ],
+        "languages": [
+            "ruby",
+            "python",
+            "javascript",
+            "coffeescript",
+            "haskell",
+            "clojure",
+            "csharp",
+            "java",
+            "elixir",
+            "cpp",
+            "php",
+            "typescript",
+            "crystal",
+            "fsharp",
+            "c",
+            "ocaml",
+            "rust",
+            "swift",
+            "go",
+            "r",
+            "shell",
+            "kotlin",
+            "powershell",
+            "julia",
+            "scala",
+            "nim",
+            "reason",
+            "racket",
+            "dart",
+            "haxe",
+            "pascal",
+            "raku",
+            "lua",
+            "perl"
+        ]
+    },
+    "525f50e3b73515a6db000b83": {
+        "name": "Create Phone Number",
+        "completedAt": "2021-08-15T23:40:15.121Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 6,
+        "tags": [
+            "Algorithms",
+            "Arrays",
+            "Data Types",
+            "Strings",
+            "Loops",
+            "Control Flow",
+            "Basic Language Features",
+            "Fundamentals",
+            "Formatting",
+            "Logic",
+            "Regular Expressions",
+            "Declarative Programming",
+            "Advanced Language Features",
+            "Programming Paradigms"
+        ],
+        "languages": [
+            "javascript",
+            "coffeescript",
+            "ruby",
+            "java",
+            "dart",
+            "haskell",
+            "csharp",
+            "python",
+            "scala",
+            "groovy",
+            "crystal",
+            "powershell",
+            "go",
+            "c",
+            "nasm",
+            "rust",
+            "php",
+            "clojure",
+            "cpp",
+            "julia",
+            "cfml",
+            "factor",
+            "fsharp"
+        ]
+    },
+    "514b92a657cdc65150000006": {
+        "name": "Multiples of 3 or 5",
+        "completedAt": "2021-08-15T10:04:02.644Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 6,
+        "tags": [
+            "Algorithms",
+            "Mathematics",
+            "Logic",
+            "Numbers"
+        ],
+        "languages": [
+            "javascript",
+            "coffeescript",
+            "ruby",
+            "clojure",
+            "python",
+            "csharp",
+            "java",
+            "haskell",
+            "cpp",
+            "elixir",
+            "typescript",
+            "php",
+            "swift",
+            "go",
+            "rust",
+            "c",
+            "r",
+            "nim",
+            "fsharp",
+            "scala",
+            "lua",
+            "shell",
+            "powershell",
+            "crystal",
+            "nasm",
+            "julia",
+            "kotlin",
+            "racket",
+            "dart",
+            "factor",
+            "prolog",
+            "raku"
+        ]
+    },
+    "53da3dbb4a5168369a0000fe": {
+        "name": "Even or Odd",
+        "completedAt": "2021-08-15T09:00:33.063Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 8,
+        "tags": [
+            "Fundamentals",
+            "Mathematics",
+            "Algorithms",
+            "Logic",
+            "Numbers",
+            "Data Types"
+        ],
+        "languages": [
+            "python",
+            "ruby",
+            "clojure",
+            "javascript",
+            "haskell",
+            "coffeescript",
+            "java",
+            "cpp",
+            "csharp",
+            "dart",
+            "rust",
+            "c",
+            "php",
+            "typescript",
+            "shell",
+            "swift",
+            "objc",
+            "go",
+            "elixir",
+            "lua",
+            "sql",
+            "groovy",
+            "julia",
+            "nasm",
+            "scala",
+            "kotlin",
+            "racket",
+            "crystal",
+            "r",
+            "reason",
+            "factor",
+            "nim",
+            "elm",
+            "purescript",
+            "cobol"
+        ]
+    },
+    "54ff3102c1bad923760001f3": {
+        "name": "Vowel Count",
+        "completedAt": "2021-08-15T08:57:11.547Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 7,
+        "tags": [
+            "Fundamentals",
+            "Strings",
+            "Data Types",
+            "Utilities"
+        ],
+        "languages": [
+            "java",
+            "javascript",
+            "python",
+            "ruby",
+            "haskell",
+            "csharp",
+            "crystal",
+            "elixir",
+            "php",
+            "typescript",
+            "r",
+            "nasm",
+            "julia",
+            "kotlin",
+            "go",
+            "scala",
+            "cpp",
+            "c",
+            "coffeescript",
+            "rust",
+            "dart",
+            "prolog",
+            "pascal"
+        ]
+    },
+    "585a1a227cb58d8d740001c3": {
+        "name": "Thinkful - String Drills: Repeater",
+        "completedAt": "2021-08-15T08:48:31.749Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 7,
+        "tags": [
+            "Fundamentals"
+        ],
+        "languages": [
+            "python",
+            "crystal",
+            "ruby",
+            "haskell",
+            "javascript",
+            "coffeescript",
+            "rust",
+            "java",
+            "php",
+            "groovy",
+            "typescript",
+            "csharp",
+            "cpp",
+            "c",
+            "julia",
+            "go"
+        ]
+    },
+    "57ed30dde7728215300005fa": {
+        "name": "Bumps in the Road",
+        "completedAt": "2021-08-14T07:56:21.828Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 7,
+        "tags": [
+            "Fundamentals",
+            "Strings",
+            "Data Types"
+        ],
+        "languages": [
+            "javascript",
+            "crystal",
+            "ruby",
+            "python",
+            "java",
+            "csharp",
+            "cpp",
+            "php",
+            "haskell",
+            "coffeescript",
+            "julia",
+            "r"
+        ]
+    },
+    "5547cc7dcad755e480000004": {
+        "name": "Is  my friend cheating?",
+        "completedAt": "2021-08-14T07:44:53.987Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 5,
+        "tags": [
+            "Puzzles",
+            "Fundamentals",
+            "Numbers",
+            "Data Types",
+            "Mathematics",
+            "Algorithms",
+            "Logic"
+        ],
+        "languages": [
+            "python",
+            "ruby",
+            "csharp",
+            "java",
+            "clojure",
+            "javascript",
+            "haskell",
+            "coffeescript",
+            "typescript",
+            "cpp",
+            "elixir",
+            "php",
+            "crystal",
+            "fsharp",
+            "c",
+            "rust",
+            "swift",
+            "go",
+            "r",
+            "shell",
+            "ocaml",
+            "fortran",
+            "julia",
+            "scala",
+            "powershell",
+            "nim",
+            "racket",
+            "reason",
+            "kotlin",
+            "prolog",
+            "pascal",
+            "factor",
+            "raku",
+            "perl"
+        ]
+    },
+    "586f6741c66d18c22800010a": {
+        "name": "Sum of a sequence",
+        "completedAt": "2021-08-13T19:15:52.708Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 7,
+        "tags": [
+            "Fundamentals",
+            "Numbers",
+            "Data Types",
+            "Recursion",
+            "Algorithms",
+            "Computability Theory",
+            "Logic",
+            "Theoretical Computer Science",
+            "Loops",
+            "Control Flow",
+            "Basic Language Features"
+        ],
+        "languages": [
+            "javascript",
+            "php",
+            "haskell",
+            "python",
+            "ruby",
+            "crystal",
+            "coffeescript",
+            "csharp",
+            "cpp",
+            "c",
+            "nasm"
+        ]
+    },
+    "582c297e56373f0426000098": {
+        "name": "Convert a linked list to a string",
+        "completedAt": "2021-08-13T18:57:39.985Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 7,
+        "tags": [
+            "Algorithms",
+            "Linked Lists",
+            "Lists",
+            "Data Structures",
+            "Recursion",
+            "Computability Theory",
+            "Logic",
+            "Theoretical Computer Science"
+        ],
+        "languages": [
+            "php",
+            "javascript",
+            "csharp",
+            "python",
+            "java",
+            "ruby",
+            "cpp",
+            "haskell",
+            "objc",
+            "c",
+            "fortran",
+            "nasm",
+            "factor"
+        ]
+    },
+    "5500d54c2ebe0a8e8a0003fd": {
+        "name": "Greatest common divisor",
+        "completedAt": "2021-08-13T18:13:25.455Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 7,
+        "tags": [
+            "Algorithms",
+            "Logic",
+            "Optimization",
+            "Fundamentals",
+            "Recursion",
+            "Computability Theory",
+            "Theoretical Computer Science"
+        ],
+        "languages": [
+            "python",
+            "haskell",
+            "javascript",
+            "ruby",
+            "coffeescript",
+            "php",
+            "csharp",
+            "java",
+            "c",
+            "cpp"
+        ]
+    },
+    "59377c53e66267c8f6000027": {
+        "name": "Alphabet war",
+        "completedAt": "2021-08-13T17:35:02.740Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 7,
+        "tags": [
+            "Fundamentals",
+            "Strings",
+            "Data Types",
+            "Loops",
+            "Control Flow",
+            "Basic Language Features"
+        ],
+        "languages": [
+            "csharp",
+            "javascript",
+            "cpp",
+            "python",
+            "ruby",
+            "crystal",
+            "haskell",
+            "php",
+            "c",
+            "nasm",
+            "kotlin",
+            "java",
+            "julia"
+        ]
+    },
+    "56f3a1e899b386da78000732": {
+        "name": "Parts of a list",
+        "completedAt": "2021-08-13T16:55:24.463Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 7,
+        "tags": [
+            "Fundamentals"
+        ],
+        "languages": [
+            "ruby",
+            "python",
+            "javascript",
+            "coffeescript",
+            "haskell",
+            "clojure",
+            "java",
+            "csharp",
+            "elixir",
+            "typescript",
+            "cpp",
+            "php",
+            "crystal",
+            "fsharp",
+            "c",
+            "ocaml",
+            "shell",
+            "kotlin",
+            "julia",
+            "powershell",
+            "go",
+            "nim",
+            "rust",
+            "reason",
+            "racket",
+            "scala",
+            "vb",
+            "dart",
+            "perl"
+        ]
+    },
+    "550554fd08b86f84fe000a58": {
+        "name": "Which are  in?",
+        "completedAt": "2021-08-13T11:08:01.098Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 6,
+        "tags": [
+            "Refactoring",
+            "Arrays",
+            "Data Types",
+            "Search",
+            "Algorithms",
+            "Logic",
+            "Lists",
+            "Data Structures",
+            "Strings"
+        ],
+        "languages": [
+            "ruby",
+            "csharp",
+            "python",
+            "java",
+            "clojure",
+            "haskell",
+            "javascript",
+            "coffeescript",
+            "elixir",
+            "typescript",
+            "cpp",
+            "php",
+            "crystal",
+            "fsharp",
+            "c",
+            "swift",
+            "r",
+            "shell",
+            "ocaml",
+            "julia",
+            "scala",
+            "powershell",
+            "kotlin",
+            "go",
+            "nim",
+            "racket",
+            "rust",
+            "lua",
+            "pascal",
+            "perl"
+        ]
+    },
+    "576bb71bbbcf0951d5000044": {
+        "name": "Count of positives \/ sum of negatives",
+        "completedAt": "2021-08-13T10:49:29.999Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 8,
+        "tags": [
+            "Fundamentals",
+            "Arrays",
+            "Data Types",
+            "Lists",
+            "Data Structures",
+            "Arithmetic",
+            "Mathematics",
+            "Algorithms",
+            "Logic",
+            "Numbers"
+        ],
+        "languages": [
+            "csharp",
+            "cpp",
+            "javascript",
+            "php",
+            "coffeescript",
+            "ruby",
+            "python",
+            "java",
+            "c",
+            "crystal",
+            "haskell",
+            "rust",
+            "typescript",
+            "kotlin",
+            "scala",
+            "nasm",
+            "racket",
+            "julia",
+            "go"
+        ]
+    },
+    "5a58d46cfd56cb4e8600009d": {
+        "name": "Halving Sum",
+        "completedAt": "2021-08-13T09:57:27.429Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 7,
+        "tags": [
+            "Algorithms",
+            "Logic"
+        ],
+        "languages": [
+            "javascript",
+            "java",
+            "python",
+            "ruby",
+            "c",
+            "cpp",
+            "haskell",
+            "nasm",
+            "php",
+            "dart"
+        ]
+    },
+    "554a44516729e4d80b000012": {
+        "name": "Buying a car",
+        "completedAt": "2021-08-13T09:22:35.088Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 6,
+        "tags": [
+            "Fundamentals",
+            "Mathematics",
+            "Algorithms",
+            "Logic",
+            "Numbers"
+        ],
+        "languages": [
+            "ruby",
+            "python",
+            "csharp",
+            "java",
+            "clojure",
+            "javascript",
+            "haskell",
+            "coffeescript",
+            "typescript",
+            "cpp",
+            "elixir",
+            "php",
+            "crystal",
+            "fsharp",
+            "c",
+            "rust",
+            "swift",
+            "go",
+            "r",
+            "shell",
+            "ocaml",
+            "fortran",
+            "julia",
+            "scala",
+            "powershell",
+            "nim",
+            "reason",
+            "racket",
+            "kotlin",
+            "prolog",
+            "pascal",
+            "lua",
+            "perl"
+        ]
+    },
+    "5544c7a5cb454edb3c000047": {
+        "name": "Bouncing Balls",
+        "completedAt": "2021-08-12T08:06:00.387Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 6,
+        "tags": [
+            "Fundamentals"
+        ],
+        "languages": [
+            "ruby",
+            "python",
+            "clojure",
+            "java",
+            "csharp",
+            "javascript",
+            "haskell",
+            "coffeescript",
+            "typescript",
+            "cpp",
+            "elixir",
+            "php",
+            "crystal",
+            "fsharp",
+            "c",
+            "rust",
+            "swift",
+            "go",
+            "r",
+            "shell",
+            "ocaml",
+            "kotlin",
+            "fortran",
+            "julia",
+            "scala",
+            "powershell",
+            "nim",
+            "racket",
+            "reason",
+            "prolog",
+            "pascal",
+            "factor",
+            "raku",
+            "perl"
+        ]
+    },
+    "5b39e3772ae7545f650000fc": {
+        "name": "Remove duplicate words",
+        "completedAt": "2021-08-11T21:27:12.492Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 7,
+        "tags": [
+            "Algorithms",
+            "Strings",
+            "Data Types",
+            "Regular Expressions",
+            "Declarative Programming",
+            "Advanced Language Features",
+            "Programming Paradigms",
+            "Fundamentals"
+        ],
+        "languages": [
+            "javascript",
+            "python",
+            "ruby",
+            "haskell",
+            "rust",
+            "csharp",
+            "php",
+            "cpp",
+            "typescript",
+            "coffeescript",
+            "crystal",
+            "java",
+            "elixir",
+            "julia",
+            "cfml",
+            "go"
+        ]
+    },
+    "5552101f47fc5178b1000050": {
+        "name": "Playing with digits",
+        "completedAt": "2021-08-10T15:33:26.535Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 6,
+        "tags": [
+            "Fundamentals",
+            "Mathematics",
+            "Algorithms",
+            "Logic",
+            "Numbers"
+        ],
+        "languages": [
+            "ruby",
+            "python",
+            "csharp",
+            "java",
+            "javascript",
+            "haskell",
+            "clojure",
+            "coffeescript",
+            "cpp",
+            "php",
+            "crystal",
+            "fsharp",
+            "swift",
+            "c",
+            "typescript",
+            "go",
+            "shell",
+            "ocaml",
+            "julia",
+            "scala",
+            "r",
+            "powershell",
+            "kotlin",
+            "nasm",
+            "nim",
+            "rust",
+            "racket",
+            "reason",
+            "lua",
+            "commonlisp",
+            "pascal",
+            "perl",
+            "raku"
+        ]
+    },
+    "56fcc393c5957c666900024d": {
+        "name": "Coding with Squared Strings",
+        "completedAt": "2021-08-10T13:19:26.208Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 5,
+        "tags": [
+            "Fundamentals",
+            "Strings",
+            "Data Types"
+        ],
+        "languages": [
+            "ruby",
+            "python",
+            "javascript",
+            "haskell",
+            "clojure",
+            "java",
+            "csharp",
+            "coffeescript",
+            "php",
+            "cpp",
+            "crystal",
+            "c",
+            "typescript",
+            "swift",
+            "fsharp",
+            "ocaml",
+            "fortran",
+            "scala",
+            "julia",
+            "r",
+            "go",
+            "nim",
+            "racket",
+            "rust",
+            "perl"
+        ]
+    },
+    "56dbf59b0a10feb08c000227": {
+        "name": "Moves in squared strings (IV)",
+        "completedAt": "2021-08-10T09:00:30.712Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 6,
+        "tags": [
+            "Fundamentals"
+        ],
+        "languages": [
+            "ruby",
+            "python",
+            "javascript",
+            "coffeescript",
+            "java",
+            "csharp",
+            "haskell",
+            "clojure",
+            "php",
+            "typescript",
+            "cpp",
+            "c",
+            "fsharp",
+            "rust",
+            "crystal",
+            "swift",
+            "r",
+            "shell",
+            "objc",
+            "ocaml",
+            "scala",
+            "julia",
+            "go",
+            "nim",
+            "racket",
+            "perl"
+        ]
+    },
+    "55b4d87a3766d9873a0000d4": {
+        "name": "How Much?",
+        "completedAt": "2021-08-08T22:08:07.872Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 6,
+        "tags": [
+            "Fundamentals"
+        ],
+        "languages": [
+            "ruby",
+            "python",
+            "javascript",
+            "haskell",
+            "java",
+            "csharp",
+            "clojure",
+            "coffeescript",
+            "typescript",
+            "cpp",
+            "elixir",
+            "php",
+            "crystal",
+            "fsharp",
+            "c",
+            "rust",
+            "swift",
+            "go",
+            "r",
+            "shell",
+            "ocaml",
+            "kotlin",
+            "fortran",
+            "julia",
+            "scala",
+            "powershell",
+            "nim",
+            "reason",
+            "racket",
+            "prolog",
+            "pascal",
+            "factor",
+            "lua",
+            "dart",
+            "perl"
+        ]
+    },
+    "56541980fa08ab47a0000040": {
+        "name": "Printer Errors",
+        "completedAt": "2021-08-08T20:54:34.602Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 7,
+        "tags": [
+            "Fundamentals"
+        ],
+        "languages": [
+            "ruby",
+            "python",
+            "javascript",
+            "coffeescript",
+            "csharp",
+            "java",
+            "haskell",
+            "clojure",
+            "elixir",
+            "typescript",
+            "cpp",
+            "php",
+            "crystal",
+            "fsharp",
+            "c",
+            "shell",
+            "ocaml",
+            "groovy",
+            "nasm",
+            "julia",
+            "go",
+            "r",
+            "kotlin",
+            "powershell",
+            "nim",
+            "reason",
+            "racket",
+            "rust",
+            "scala",
+            "dart",
+            "swift",
+            "haxe",
+            "raku",
+            "pascal",
+            "perl"
+        ]
+    },
+    "56dbeec613c2f63be4000be6": {
+        "name": "Moves in squared strings (III)",
+        "completedAt": "2021-08-08T20:39:02.287Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 6,
+        "tags": [
+            "Fundamentals"
+        ],
+        "languages": [
+            "ruby",
+            "python",
+            "javascript",
+            "coffeescript",
+            "java",
+            "csharp",
+            "haskell",
+            "clojure",
+            "php",
+            "typescript",
+            "cpp",
+            "fsharp",
+            "c",
+            "crystal",
+            "rust",
+            "swift",
+            "r",
+            "shell",
+            "objc",
+            "ocaml",
+            "scala",
+            "julia",
+            "go",
+            "nim",
+            "racket",
+            "dart",
+            "pascal",
+            "perl"
+        ]
+    },
+    "564057bc348c7200bd0000ff": {
+        "name": "A Rule of Divisibility by 13",
+        "completedAt": "2021-08-08T14:09:03.046Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 6,
+        "tags": [
+            "Fundamentals"
+        ],
+        "languages": [
+            "ruby",
+            "python",
+            "javascript",
+            "haskell",
+            "csharp",
+            "java",
+            "coffeescript",
+            "clojure",
+            "elixir",
+            "cpp",
+            "typescript",
+            "php",
+            "crystal",
+            "fsharp",
+            "c",
+            "rust",
+            "swift",
+            "go",
+            "shell",
+            "r",
+            "ocaml",
+            "kotlin",
+            "julia",
+            "fortran",
+            "scala",
+            "powershell",
+            "nim",
+            "reason",
+            "racket",
+            "forth",
+            "prolog",
+            "haxe",
+            "dart",
+            "pascal",
+            "lua",
+            "perl"
+        ]
+    },
+    "58844f1a76933b1cd0000023": {
+        "name": "Simple Fun #8: Kill K-th Bit",
+        "completedAt": "2021-08-08T12:15:43.956Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 7,
+        "tags": [
+            "Puzzles",
+            "Games"
+        ],
+        "languages": [
+            "javascript",
+            "csharp",
+            "python",
+            "php",
+            "ruby",
+            "crystal",
+            "haskell",
+            "kotlin",
+            "scala",
+            "elixir",
+            "julia",
+            "c"
+        ]
+    },
+    "58712dfa5c538b6fc7000569": {
+        "name": "Simple beads count",
+        "completedAt": "2021-08-08T11:19:59.690Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 7,
+        "tags": [
+            "Fundamentals",
+            "Operators"
+        ],
+        "languages": [
+            "python",
+            "javascript",
+            "c",
+            "haskell",
+            "php",
+            "java",
+            "ruby",
+            "kotlin",
+            "csharp",
+            "nasm",
+            "cpp",
+            "rust",
+            "typescript",
+            "go"
+        ]
+    },
+    "55c6126177c9441a570000cc": {
+        "name": "Weight for weight",
+        "completedAt": "2021-08-08T11:11:23.241Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 5,
+        "tags": [
+            "Algorithms",
+            "Numbers",
+            "Data Types"
+        ],
+        "languages": [
+            "ruby",
+            "python",
+            "javascript",
+            "haskell",
+            "java",
+            "csharp",
+            "clojure",
+            "coffeescript",
+            "cpp",
+            "php",
+            "crystal",
+            "c",
+            "typescript",
+            "rust",
+            "swift",
+            "fsharp",
+            "r",
+            "shell",
+            "ocaml",
+            "kotlin",
+            "objc",
+            "lua",
+            "scala",
+            "elixir",
+            "julia",
+            "powershell",
+            "go",
+            "nim",
+            "reason",
+            "racket",
+            "pascal",
+            "perl"
+        ]
+    },
+    "542c0f198e077084c0000c2e": {
+        "name": "Count the divisors of a number",
+        "completedAt": "2021-08-08T09:32:19.355Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 7,
+        "tags": [
+            "Fundamentals",
+            "Arithmetic",
+            "Mathematics",
+            "Algorithms",
+            "Logic",
+            "Numbers"
+        ],
+        "languages": [
+            "javascript",
+            "haskell",
+            "python",
+            "coffeescript",
+            "java",
+            "crystal",
+            "csharp",
+            "ruby",
+            "factor",
+            "prolog",
+            "php",
+            "racket",
+            "typescript",
+            "c",
+            "go",
+            "julia",
+            "scala",
+            "dart",
+            "r",
+            "reason"
+        ]
+    },
+    "563b662a59afc2b5120000c6": {
+        "name": "Growth of a Population",
+        "completedAt": "2021-08-08T09:23:14.823Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 7,
+        "tags": [
+            "Fundamentals"
+        ],
+        "languages": [
+            "ruby",
+            "python",
+            "javascript",
+            "coffeescript",
+            "haskell",
+            "java",
+            "csharp",
+            "clojure",
+            "cpp",
+            "php",
+            "crystal",
+            "fsharp",
+            "c",
+            "typescript",
+            "r",
+            "nim",
+            "shell",
+            "ocaml",
+            "lua",
+            "kotlin",
+            "fortran",
+            "elixir",
+            "julia",
+            "powershell",
+            "go",
+            "rust",
+            "reason",
+            "racket",
+            "forth",
+            "factor",
+            "dart",
+            "elm",
+            "scala",
+            "prolog",
+            "haxe",
+            "raku",
+            "pascal",
+            "perl"
+        ]
+    },
+    "595519279be6c575b5000016": {
+        "name": "Battle of the characters (Easy)",
+        "completedAt": "2021-08-08T09:04:28.430Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 7,
+        "tags": [
+            "Algorithms"
+        ],
+        "languages": [
+            "javascript",
+            "ruby",
+            "php",
+            "csharp",
+            "haskell",
+            "java",
+            "python"
+        ]
+    },
+    "598f76a44f613e0e0b000026": {
+        "name": "Sum of integers in string",
+        "completedAt": "2021-08-08T08:18:10.695Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 7,
+        "tags": [
+            "Fundamentals"
+        ],
+        "languages": [
+            "swift",
+            "python",
+            "javascript",
+            "csharp",
+            "php",
+            "ruby",
+            "crystal",
+            "lua",
+            "haskell",
+            "go"
+        ]
+    },
+    "5ce9c1000bab0b001134f5af": {
+        "name": "Quarter of the year",
+        "completedAt": "2021-08-08T07:49:33.738Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 8,
+        "tags": [
+            "Fundamentals"
+        ],
+        "languages": [
+            "javascript",
+            "php",
+            "ruby",
+            "python",
+            "typescript",
+            "c",
+            "rust",
+            "prolog",
+            "go",
+            "java",
+            "nasm",
+            "swift",
+            "julia",
+            "crystal",
+            "coffeescript",
+            "perl",
+            "cpp",
+            "r",
+            "dart"
+        ]
+    },
+    "55685cd7ad70877c23000102": {
+        "name": "Return Negative",
+        "completedAt": "2021-08-08T07:35:01.476Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 8,
+        "tags": [
+            "Fundamentals",
+            "Numbers",
+            "Data Types"
+        ],
+        "languages": [
+            "csharp",
+            "python",
+            "javascript",
+            "haskell",
+            "ruby",
+            "java",
+            "coffeescript",
+            "cpp",
+            "elixir",
+            "typescript",
+            "go",
+            "julia",
+            "kotlin",
+            "nasm",
+            "groovy",
+            "scala",
+            "c",
+            "php",
+            "racket",
+            "cfml",
+            "crystal",
+            "r",
+            "dart"
+        ]
+    },
+    "55e2adece53b4cdcb900006c": {
+        "name": "Tortoise racing",
+        "completedAt": "2021-08-06T18:15:38.479Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 6,
+        "tags": [
+            "Fundamentals"
+        ],
+        "languages": [
+            "ruby",
+            "python",
+            "javascript",
+            "haskell",
+            "java",
+            "csharp",
+            "clojure",
+            "coffeescript",
+            "cpp",
+            "php",
+            "crystal",
+            "fsharp",
+            "c",
+            "typescript",
+            "rust",
+            "swift",
+            "go",
+            "r",
+            "nim",
+            "shell",
+            "ocaml",
+            "kotlin",
+            "groovy",
+            "fortran",
+            "elixir",
+            "julia",
+            "scala",
+            "powershell",
+            "reason",
+            "racket",
+            "pascal",
+            "lua",
+            "perl"
+        ]
+    },
+    "5541f58a944b85ce6d00006a": {
+        "name": "Product of consecutive Fib numbers",
+        "completedAt": "2021-08-06T16:49:52.203Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 5,
+        "tags": [
+            "Fundamentals"
+        ],
+        "languages": [
+            "ruby",
+            "javascript",
+            "csharp",
+            "haskell",
+            "python",
+            "java",
+            "clojure",
+            "coffeescript",
+            "cpp",
+            "php",
+            "crystal",
+            "fsharp",
+            "c",
+            "typescript",
+            "rust",
+            "swift",
+            "go",
+            "r",
+            "shell",
+            "ocaml",
+            "kotlin",
+            "elixir",
+            "julia",
+            "scala",
+            "powershell",
+            "nim",
+            "racket",
+            "reason",
+            "forth",
+            "prolog",
+            "fortran"
+        ]
+    },
+    "56f699cd9400f5b7d8000b55": {
+        "name": "My head is at the wrong end!",
+        "completedAt": "2021-08-06T14:46:33.943Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 8,
+        "tags": [
+            "Algorithms",
+            "Arrays",
+            "Data Types",
+            "Lists",
+            "Data Structures"
+        ],
+        "languages": [
+            "javascript",
+            "ruby",
+            "python",
+            "coffeescript",
+            "elixir",
+            "crystal",
+            "c",
+            "php",
+            "csharp",
+            "java",
+            "haskell",
+            "scala",
+            "elm",
+            "factor",
+            "clojure",
+            "cpp",
+            "dart",
+            "julia",
+            "r",
+            "typescript"
+        ]
+    },
+    "5279f6fe5ab7f447890006a7": {
+        "name": "Pick peaks",
+        "completedAt": "2021-08-06T12:36:16.101Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 5,
+        "tags": [
+            "Algorithms",
+            "Arrays",
+            "Data Types",
+            "Map\/Reduce",
+            "Logic"
+        ],
+        "languages": [
+            "javascript",
+            "python",
+            "ruby",
+            "go",
+            "php",
+            "cpp",
+            "java",
+            "haskell",
+            "csharp",
+            "fsharp"
+        ]
+    },
+    "54b724efac3d5402db00065e": {
+        "name": "Decode the Morse code ",
+        "completedAt": "2021-08-05T00:04:58.009Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 6,
+        "tags": [
+            "Algorithms"
+        ],
+        "languages": [
+            "python",
+            "javascript",
+            "ruby",
+            "java",
+            "csharp",
+            "typescript",
+            "php",
+            "haskell",
+            "cpp",
+            "coffeescript",
+            "elixir",
+            "go",
+            "rust",
+            "kotlin",
+            "scala",
+            "elm",
+            "lua",
+            "c",
+            "julia",
+            "swift",
+            "nasm",
+            "fsharp",
+            "racket"
+        ]
+    },
+    "55e6f5e58f7817808e00002e": {
+        "name": "A Rule of Divisibility by 7",
+        "completedAt": "2021-08-04T23:35:04.540Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 7,
+        "tags": [
+            "Fundamentals"
+        ],
+        "languages": [
+            "ruby",
+            "python",
+            "javascript",
+            "haskell",
+            "java",
+            "csharp",
+            "clojure",
+            "coffeescript",
+            "typescript",
+            "elixir",
+            "cpp",
+            "php",
+            "crystal",
+            "fsharp",
+            "c",
+            "shell",
+            "ocaml",
+            "kotlin",
+            "nasm",
+            "julia",
+            "r",
+            "powershell",
+            "go",
+            "nim",
+            "rust",
+            "reason",
+            "racket",
+            "forth",
+            "factor",
+            "scala",
+            "prolog",
+            "fortran",
+            "haxe",
+            "dart",
+            "pascal",
+            "lua",
+            "perl"
+        ]
+    },
+    "57ec8bd8f670e9a47a000f89": {
+        "name": "The Wide-Mouthed frog! ",
+        "completedAt": "2021-08-04T22:33:56.478Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 8,
+        "tags": [
+            "Fundamentals",
+            "Strings",
+            "Data Types",
+            "Logic"
+        ],
+        "languages": [
+            "ruby",
+            "javascript",
+            "python",
+            "crystal",
+            "php",
+            "coffeescript",
+            "csharp",
+            "haskell",
+            "cfml",
+            "prolog",
+            "julia",
+            "typescript",
+            "r",
+            "java"
+        ]
+    },
+    "57e92e91b63b6cbac20001e5": {
+        "name": "Holiday VIII - Duty Free",
+        "completedAt": "2021-08-04T22:27:20.583Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 8,
+        "tags": [
+            "Fundamentals",
+            "Numbers",
+            "Data Types",
+            "Mathematics",
+            "Algorithms",
+            "Logic"
+        ],
+        "languages": [
+            "javascript",
+            "python",
+            "ruby",
+            "csharp",
+            "haskell",
+            "cpp",
+            "kotlin",
+            "java",
+            "c",
+            "php",
+            "coffeescript",
+            "crystal",
+            "julia",
+            "rust",
+            "r"
+        ]
+    },
+    "5656b6906de340bd1b0000ac": {
+        "name": "Two to One",
+        "completedAt": "2021-08-04T11:20:28.260Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 7,
+        "tags": [
+            "Fundamentals"
+        ],
+        "languages": [
+            "java",
+            "csharp",
+            "ruby",
+            "python",
+            "javascript",
+            "coffeescript",
+            "haskell",
+            "clojure",
+            "cpp",
+            "php",
+            "crystal",
+            "fsharp",
+            "c",
+            "elixir",
+            "typescript",
+            "shell",
+            "ocaml",
+            "kotlin",
+            "julia",
+            "go",
+            "r",
+            "rust",
+            "scala",
+            "powershell",
+            "nim",
+            "reason",
+            "racket",
+            "dart",
+            "pascal",
+            "perl"
+        ]
+    },
+    "580a094553bd9ec5d800007d": {
+        "name": "Alan Partridge II - Apple Turnover",
+        "completedAt": "2021-08-04T10:52:40.600Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 8,
+        "tags": [
+            "Fundamentals",
+            "Numbers",
+            "Data Types",
+            "Strings",
+            "Mathematics",
+            "Algorithms",
+            "Logic"
+        ],
+        "languages": [
+            "javascript",
+            "python",
+            "coffeescript",
+            "crystal",
+            "haskell",
+            "csharp",
+            "php",
+            "ruby",
+            "c",
+            "julia",
+            "typescript",
+            "cpp",
+            "nasm",
+            "r",
+            "dart"
+        ]
+    },
+    "563e320cee5dddcf77000158": {
+        "name": "Get the mean of an array",
+        "completedAt": "2021-08-04T10:42:10.667Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 8,
+        "tags": [
+            "Algorithms",
+            "Arrays",
+            "Data Types"
+        ],
+        "languages": [
+            "javascript",
+            "ruby",
+            "csharp",
+            "coffeescript",
+            "haskell",
+            "python",
+            "elixir",
+            "c",
+            "typescript",
+            "php",
+            "java",
+            "cpp",
+            "lua",
+            "julia",
+            "crystal",
+            "dart",
+            "clojure",
+            "racket",
+            "factor",
+            "rust",
+            "nasm",
+            "prolog",
+            "swift",
+            "r",
+            "ocaml"
+        ]
+    },
+    "57eaeb9578748ff92a000009": {
+        "name": "Sum Mixed Array",
+        "completedAt": "2021-08-04T10:34:16.477Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 8,
+        "tags": [
+            "Fundamentals",
+            "Strings",
+            "Data Types",
+            "Numbers",
+            "Arrays"
+        ],
+        "languages": [
+            "javascript",
+            "ruby",
+            "php",
+            "crystal",
+            "python",
+            "csharp",
+            "haskell",
+            "elixir",
+            "java",
+            "racket",
+            "swift",
+            "kotlin",
+            "julia",
+            "typescript",
+            "cfml",
+            "coffeescript",
+            "r"
+        ]
+    },
+    "5f70c883e10f9e0001c89673": {
+        "name": "Gravity Flip",
+        "completedAt": "2021-08-04T10:13:43.149Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 8,
+        "tags": [
+            "Puzzles",
+            "Fundamentals",
+            "Games"
+        ],
+        "languages": [
+            "python",
+            "javascript",
+            "c",
+            "haskell",
+            "ruby",
+            "prolog",
+            "commonlisp",
+            "fortran",
+            "powershell",
+            "typescript",
+            "cfml",
+            "rust",
+            "julia",
+            "php",
+            "clojure",
+            "swift",
+            "coffeescript",
+            "crystal",
+            "cpp",
+            "csharp",
+            "java",
+            "r"
+        ]
+    },
+    "596c6eb85b0f515834000049": {
+        "name": "FIXME: Replace all dots",
+        "completedAt": "2021-08-04T09:40:07.254Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 8,
+        "tags": [
+            "Bugs"
+        ],
+        "languages": [
+            "java",
+            "javascript",
+            "php",
+            "ruby",
+            "csharp",
+            "python",
+            "crystal",
+            "coffeescript",
+            "julia",
+            "r"
+        ]
+    },
+    "57eae65a4321032ce000002d": {
+        "name": "Fake Binary",
+        "completedAt": "2021-08-04T09:34:35.210Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 8,
+        "tags": [
+            "Fundamentals",
+            "Strings",
+            "Data Types",
+            "Arrays"
+        ],
+        "languages": [
+            "javascript",
+            "csharp",
+            "fsharp",
+            "c",
+            "python",
+            "php",
+            "ruby",
+            "haskell",
+            "crystal",
+            "cpp",
+            "java",
+            "nasm",
+            "typescript",
+            "julia",
+            "racket",
+            "swift",
+            "elixir",
+            "clojure",
+            "coffeescript",
+            "r"
+        ]
+    },
+    "545cedaa9943f7fe7b000048": {
+        "name": "Detect Pangram",
+        "completedAt": "2021-08-04T00:46:53.772Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 6,
+        "tags": [
+            "Fundamentals",
+            "Strings",
+            "Data Types",
+            "Data Structures"
+        ],
+        "languages": [
+            "python",
+            "haskell",
+            "clojure",
+            "javascript",
+            "csharp",
+            "java",
+            "r",
+            "ruby",
+            "php",
+            "c",
+            "prolog",
+            "pascal",
+            "typescript"
+        ]
+    },
+    "5264d2b162488dc400000001": {
+        "name": "Stop gninnipS My sdroW!",
+        "completedAt": "2021-08-04T00:17:22.341Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 6,
+        "tags": [
+            "Algorithms",
+            "Strings",
+            "Data Types",
+            "Formatting",
+            "Logic"
+        ],
+        "languages": [
+            "javascript",
+            "coffeescript",
+            "ruby",
+            "haskell",
+            "java",
+            "python",
+            "csharp",
+            "typescript",
+            "cpp",
+            "scala",
+            "fsharp",
+            "clojure",
+            "julia",
+            "kotlin",
+            "go",
+            "groovy",
+            "php",
+            "elixir",
+            "crystal",
+            "dart",
+            "prolog",
+            "swift",
+            "rust",
+            "factor"
+        ]
+    },
+    "578553c3a1b8d5c40300037c": {
+        "name": "Ones and Zeros",
+        "completedAt": "2021-08-04T00:03:05.898Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 7,
+        "tags": [
+            "Fundamentals",
+            "Arrays",
+            "Data Types"
+        ],
+        "languages": [
+            "java",
+            "javascript",
+            "python",
+            "ruby",
+            "coffeescript",
+            "c",
+            "csharp",
+            "nasm",
+            "php",
+            "haskell",
+            "crystal",
+            "dart",
+            "rust",
+            "julia"
+        ]
+    },
+    "550498447451fbbd7600041c": {
+        "name": "Are they the \"same\"?",
+        "completedAt": "2021-08-03T23:09:56.253Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 6,
+        "tags": [
+            "Fundamentals"
+        ],
+        "languages": [
+            "ruby",
+            "csharp",
+            "python",
+            "java",
+            "clojure",
+            "haskell",
+            "javascript",
+            "coffeescript",
+            "elixir",
+            "typescript",
+            "cpp",
+            "php",
+            "crystal",
+            "fsharp",
+            "c",
+            "rust",
+            "swift",
+            "r",
+            "scala",
+            "shell",
+            "ocaml",
+            "julia",
+            "kotlin",
+            "powershell",
+            "go",
+            "nim",
+            "purescript",
+            "nasm",
+            "racket",
+            "groovy",
+            "prolog",
+            "cfml",
+            "fortran",
+            "haxe",
+            "dart",
+            "pascal",
+            "lua",
+            "perl"
+        ]
+    },
+    "5266876b8f4bf2da9b000362": {
+        "name": "Who likes it?",
+        "completedAt": "2021-08-02T11:55:29.913Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 6,
+        "tags": [
+            "Fundamentals",
+            "Formatting",
+            "Algorithms",
+            "Logic",
+            "Strings",
+            "Data Types"
+        ],
+        "languages": [
+            "javascript",
+            "haskell",
+            "ruby",
+            "python",
+            "csharp",
+            "cpp",
+            "java",
+            "php",
+            "c",
+            "julia",
+            "prolog",
+            "rust",
+            "fsharp",
+            "typescript"
+        ]
+    },
+    "523a86aa4230ebb5420001e1": {
+        "name": "Where my anagrams at?",
+        "completedAt": "2021-08-02T11:32:45.070Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 5,
+        "tags": [
+            "Algorithms",
+            "Strings",
+            "Data Types"
+        ],
+        "languages": [
+            "javascript",
+            "coffeescript",
+            "ruby",
+            "haskell",
+            "python",
+            "csharp",
+            "php",
+            "r",
+            "objc",
+            "rust",
+            "go"
+        ]
+    },
+    "57eae20f5500ad98e50002c5": {
+        "name": "Remove String Spaces",
+        "completedAt": "2021-08-02T11:23:19.669Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 8,
+        "tags": [
+            "Fundamentals",
+            "Strings",
+            "Data Types",
+            "Arrays"
+        ],
+        "languages": [
+            "javascript",
+            "php",
+            "ruby",
+            "python",
+            "haskell",
+            "shell",
+            "csharp",
+            "coffeescript",
+            "cpp",
+            "crystal",
+            "java",
+            "rust",
+            "groovy",
+            "typescript",
+            "kotlin",
+            "c",
+            "scala",
+            "racket",
+            "nim",
+            "factor",
+            "dart",
+            "lua",
+            "elm",
+            "elixir",
+            "julia",
+            "go",
+            "r"
+        ]
+    },
+    "54bf1c2cd5b56cc47f0007a1": {
+        "name": "Counting Duplicates",
+        "completedAt": "2021-08-01T13:55:12.212Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 6,
+        "tags": [
+            "Fundamentals",
+            "Strings",
+            "Data Types"
+        ],
+        "languages": [
+            "python",
+            "javascript",
+            "ruby",
+            "haskell",
+            "csharp",
+            "elixir",
+            "shell",
+            "cpp",
+            "java",
+            "clojure",
+            "r",
+            "go",
+            "c",
+            "kotlin",
+            "scala",
+            "php",
+            "coffeescript",
+            "purescript",
+            "typescript",
+            "julia",
+            "fsharp",
+            "swift",
+            "dart",
+            "rust",
+            "nasm",
+            "crystal",
+            "racket",
+            "groovy"
+        ]
+    },
+    "54ba84be607a92aa900000f1": {
+        "name": "Isograms",
+        "completedAt": "2021-08-01T13:17:59.523Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 7,
+        "tags": [
+            "Fundamentals",
+            "Strings",
+            "Data Types"
+        ],
+        "languages": [
+            "haskell",
+            "javascript",
+            "python",
+            "ruby",
+            "coffeescript",
+            "csharp",
+            "cpp",
+            "java",
+            "php",
+            "c",
+            "typescript",
+            "julia",
+            "nasm"
+        ]
+    },
+    "526571aae218b8ee490006f4": {
+        "name": "Bit Counting",
+        "completedAt": "2021-08-01T12:56:51.349Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 6,
+        "tags": [
+            "Algorithms",
+            "Bits",
+            "Binary"
+        ],
+        "languages": [
+            "ruby",
+            "coffeescript",
+            "javascript",
+            "python",
+            "csharp",
+            "java",
+            "php",
+            "c",
+            "clojure",
+            "rust",
+            "shell",
+            "nasm",
+            "crystal",
+            "go",
+            "cpp",
+            "scala",
+            "swift",
+            "groovy",
+            "julia",
+            "haskell",
+            "typescript",
+            "elixir"
+        ]
+    },
+    "50654ddff44f800200000004": {
+        "name": "Multiply",
+        "completedAt": "2021-08-01T12:46:43.067Z",
+        "completedLanguages": [
+            "php"
+        ],
+        "rank": 8,
+        "tags": [
+            "Bugs"
+        ],
+        "languages": [
+            "javascript",
+            "coffeescript",
+            "ruby",
+            "python",
+            "haskell",
+            "clojure",
+            "java",
+            "csharp",
+            "elixir",
+            "cpp",
+            "typescript",
+            "php",
+            "crystal",
+            "dart",
+            "rust",
+            "fsharp",
+            "swift",
+            "go",
+            "shell",
+            "c",
+            "lua",
+            "sql",
+            "bf",
+            "r",
+            "nim",
+            "erlang",
+            "objc",
+            "scala",
+            "kotlin",
+            "solidity",
+            "groovy",
+            "fortran",
+            "nasm",
+            "julia",
+            "powershell",
+            "purescript",
+            "elm",
+            "ocaml",
+            "reason",
+            "idris",
+            "racket",
+            "agda",
+            "coq",
+            "vb",
+            "forth",
+            "factor",
+            "prolog",
+            "cfml",
+            "lean",
+            "cobol",
+            "haxe",
+            "commonlisp",
+            "raku",
+            "perl",
+            "pascal"
+        ]
+    }
+}

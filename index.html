@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio Michała Sapińskiego</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <link rel ="stylesheet" type="text/css" href="vendor\twbs\bootstrap\dist\css\bootstrap.css" />
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+</head>
+<body>
+<header>
+  <div id="nav_top" class="container">
+    <nav class="navbar navbar-expand navbar-light" style="background-color: #a1a1a1;">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="" style="padding: 5px 40px 5px 20px">
+          <img id="logo" src="img/msportfolio_logo.png" alt="logo" width="90" height="72">
+        </a>
+        <ul class="navbar-nav flex-grow-1 pe-3"> <!-- me-auto mb-2 mb-lg-0"> -->
+          <li class="nav-item px-4">
+            <a class="nav-link" href="javascript:void(0);" onclick="$('#maincanvas').load('projects.html'); $('#nav_bottom').show();">Projekty</a>
+          </li>  
+          <li class="nav-item px-4">
+            <a class="nav-link" href="javascript:void(0);" onclick="$('#maincanvas').load('programmer.html');$('#nav_bottom').hide();">Profil programisty</a>
+          </li>  
+          <li class="nav-item px-4">
+            <a class="nav-link" href="javascript:void(0);" onclick="$('#maincanvas').load('aboutme.html');$('#nav_bottom').hide();">O mnie</a>
+          </li>  
+        </ul>
+      </div>
+    
+    </nav>
+  </div>
+  <!-- Bootstrap element here -->
+  <div id='nav_bottom' class="container">
+  <nav class="navbar fixed-bottom navbar-expand-lg navbar-light" style="background-color: #a1a1a1;">
+    <div class="container-fluid">
+      <span class="navbar-text">
+        Kategorie projektów: <img src="img/arrow_right.png" />
+      </span>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav justify-content-center flex-grow-1 pe-3"> <!-- me-auto mb-2 mb-lg-0"> -->
+          <li class="nav-item">
+            <a class="nav-link" href="#backend">PHP</a>
+          </li>  
+          <span class="navbar-text">
+            |
+          </span>
+          <li class="nav-item">
+            <a class="nav-link" href="#frontend">JavaScript</a>
+          </li>
+        </ul>
+        <a class="navbar-brand" href="#">
+          <img src="img/goto_top.png" alt="goto top" width="24" height="24">
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+        </button>
+      </div>
+    </div>
+  </nav>
+</div>
+  <!-- end of bootstrap element -->
+
+</header>
+<div id="maincanvas">
+
+</div> <!-- main canvas end -->
+    
+    
+
+    
+    <footer>
+    <div id="footer_center">
+     <p>Copyright &copy; 2021 Michał Sapiński. All rights reserved.</p><p style="text-align: center;">
+     <a href="https://github.com/MichalKoder" target="_blank"><img src="img/bootstrap-icons-1.5.0/github.svg"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
+     <a href="mailto://sapinski.michal@gmail.com" target="_blank" style="text-decoration: none; color: gray;"><img src="img/bootstrap-icons-1.5.0/envelope.svg"></img></a>
+     </p></p>
+    </div>
+     <!-- <div id="footer_right">
+     <a href="https://www.linkedin.com/in/michalsapinski000/" target="_blank"><img src="img/bootstrap-icons-1.5.0/linkedin.svg" /></a>
+     <img src="img/bootstrap-icons-1.5.0/facebook.svg" />
+     <img src="img/bootstrap-icons-1.5.0/instagram.svg" />
+     <img src="img/bootstrap-icons-1.5.0/twitter.svg" />
+     <img src="img/bootstrap-icons-1.5.0/youtube.svg" />
+    </div> -->
+     
+    </footer>
+
+    <script type="text/javascript">
+     $(document).ready(function() {
+          $('#maincanvas').load('projects.html');
+        });
+  </script>
+</body>
+</html>

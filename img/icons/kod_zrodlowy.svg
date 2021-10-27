@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="35.239964"
+   height="21.232094"
+   viewBox="0 0 9.3239067 5.6176576"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="kod_zrodlowy.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="15.839192"
+     inkscape:cx="19.138054"
+     inkscape:cy="16.694344"
+     inkscape:document-units="px"
+     inkscape:current-layer="g1459"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     width="50mm"
+     inkscape:window-width="1677"
+     inkscape:window-height="1030"
+     inkscape:window-x="225"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-grids="true"
+     inkscape:snap-global="false">
+    <sodipodi:guide
+       position="-3.6197907,-3.3541895"
+       orientation="0,-1"
+       id="guide1450" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Warstwa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(1.7730602,3.4220261)">
+    <g
+       id="g1434">
+      <g
+         id="g1440">
+        <g
+           id="g1458" />
+        <g
+           id="g1488">
+          <g
+             id="g1496"
+             transform="matrix(0.26909909,-0.25660031,0.21516351,0.22345265,-2.3526603,0.3574297)">
+            <g
+               id="g1448"
+               transform="matrix(0.72309581,0.823761,-0.57333067,0.72979617,8.1045799,-7.4424099)">
+              <g
+                 id="g1459">
+                <g
+                   id="g1467"
+                   transform="matrix(1.0302554,0,0,1.0302554,-2.6475687e-5,0.00358847)">
+                  <rect
+                     style="fill:#800000;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0"
+                     id="rect839"
+                     width="24.943163"
+                     height="17.991665"
+                     x="6.8818088e-07"
+                     y="6.9243674e-07" />
+                  <rect
+                     style="fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.338631;stroke-miterlimit:4;stroke-dasharray:none"
+                     id="rect833"
+                     width="24.148521"
+                     height="17.09482"
+                     x="0.40532139"
+                     y="0.41503644"
+                     transform="matrix(1,5.8646826e-5,9.2109939e-5,1,0,0)" />
+                  <text
+                     xml:space="preserve"
+                     style="font-style:normal;font-weight:normal;font-size:5.44503px;line-height:1.25;font-family:sans-serif;letter-spacing:0.797691px;fill:#ffffff;fill-opacity:1;stroke:#800000;stroke-width:0.136126"
+                     x="6.1931095"
+                     y="6.3271785"
+                     id="text837"
+                     transform="scale(0.91054497,1.0982434)"><tspan
+                       sodipodi:role="line"
+                       id="tspan835"
+                       x="6.1931095"
+                       y="6.3271785"
+                       style="font-weight:bold;fill:#ffffff;stroke:#800000;stroke-width:0.136126">Kod</tspan></text>
+                  <text
+                     xml:space="preserve"
+                     style="font-style:normal;font-weight:normal;font-size:5.55823px;line-height:1.25;font-family:sans-serif;letter-spacing:-0.233135px;fill:#ffffff;fill-opacity:1;stroke:#800000;stroke-width:0.138956"
+                     x="0.096374288"
+                     y="13.162855"
+                     id="text1476"
+                     transform="scale(0.91054497,1.0982434)"><tspan
+                       sodipodi:role="line"
+                       id="tspan1474"
+                       x="0.096374288"
+                       y="13.162855"
+                       style="font-weight:bold;fill:#ffffff;stroke:#800000;stroke-width:0.138956">Źródłowy</tspan></text>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

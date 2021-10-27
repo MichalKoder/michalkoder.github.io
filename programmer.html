@@ -1,0 +1,133 @@
+<script src="drawMyChart.js">
+</script>
+<script>var myconf = prepareChart();</script>
+
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<script>
+  function drawChrono() {
+  const labels2 = ['Basic','AC Logo', 'Batch', 'Turbo Pascal', 'Assembler', 'C++', 'C#', 'Verilog/VHDL', 'Bash', 'Java', 'PHP', 'JavaScript'];
+      const data2 = {
+        labels: labels2,
+        datasets: [{
+          label: '',
+          backgroundColor: ['lightblue', 'yellow', 'rgb(255,255,112)', 'rgb(250,250,250)', 'white', 'green', 'purple', 'brown', 'gray', 'orange', 'blue'].reverse(),
+          borderColor: 'black',
+          data: ["1990", "1994", "1996", "1998", "2002", "2018", "2019", "2019", "2020", "2020", "2020", "2021"],
+          hoverOffset: 4,
+          hoverBorderColor: 'red'
+        }]
+      };
+  
+      const config2 = {
+        type: 'line',
+        data: data2,
+        options: {
+          scales: {
+            y: {
+              beginAtZero: false
+            }
+          },
+            plugins: {
+                title: {
+                    display: true,
+                    text: 'Chronologia zaznajamiania z językami programowania',
+                    font: {size: '20%'},
+                    padding: 15
+                },
+                legend: {
+                  display: false,
+                    labels: {
+                        padding: 2
+                        
+                    }
+                }
+            }
+        }
+      };
+    
+  
+      
+      var myChart2 = new Chart(document.getElementById('chrono_bars'),config2);
+  
+    }
+      </script>
+
+<div class="heading">
+  <h3>
+    Od kiedy programuję?
+  </h3>
+  </div>
+  <div class="subheading">
+  <p>
+    Moją przygodę z komputerami i językami programowania zacząłem będąc jeszcze w szkole podstawowej w latach 90 ubiegłego stulecia.
+    Jak to dzieciaki, zużyliśmy wtedy wiele styków od joysticków grając w przeróżne gry. </p>
+    <p>Z tamtego czasu pamiętam swoją pierwszą książke od Basica i poczucie kontroli nad Atari, a później Amigą kiedy to udało mi się wyświetlić na ekranie choinkę, odliczanie do ogromnej liczby, czy też błyskawice w trybie graficznym z odgłosami.
+    </p><p>
+    W szkole uczyliśmy się jazdy na żółwiku (Logo). Niby to taka prosta zabawa w rysowanie ale potrafiła zapoznać dzieci z procedurami i rekurencją w programowaniu.
+    W systemach MS-DOS aby ustawić automatyczne wejście do Nortona Commandera, zainstalować myszkę, cd-rom, potrzebowałem nauczyć się podstaw konfiguracji w plikach BAT i SYS.
+  </p><p>
+    Będąc w klasach o profilu informatycznym liceum pracowaliśmy wtedy w Turbo Pascalu - znakomitym odpowiedniku języka C stworzonym specjalnie dla wczesnej edukacji programistycznej. Poznałem podstawowe, z zakresu szkoły średniej, algorytmy iteracyjne i rekurencyjne.
+    Moim finalnym projektem grupowym był wtedy program do rysowania wykresów funkcji.
+  </p><p>
+    Język Pascal pozwala na dołączanie do kodu programu wstawek w języku Assembler, więc korzystałem z dobrodziejstw niskopoziomowego programowania i wyłączałem za jego pomocą miganie kursora w tworzonym menu użytkownika, lub dla zabawy migałem diodami na klawiaturze w takt muzyczki płynącej ze speakera.
+  </p><p>
+    Na studiach udało mi się popełnić wiele ćwiczeniowych mniej lub bardziej złożonych programów w wielu językach zarówno funkcjonalnie jak i obiektowo.
+    Długi okres czasu zastanawiałem się, czy nie zająć się opisywaniem, dizajnem sprzętu i rzeczami niskopoziomowymi. Płaska krzywa uczenia i ociążałe kombajny IDE do projektowania systemów wbudowanych odwiodły mnie od tego pomysłu.
+    Poznając ogrom poddziedzin informatyki, ostatecznie - przynajmniej na najbliższe kilka lat - wybrałem technologie webowe.
+
+
+  </p>
+</div>
+<div id="chronobars_frame" style="width:800px;height:500px;margin-left: auto; margin-right: auto; margin-top: 60px; background-color: lightgray; padding: 10px;">
+  <canvas id="chrono_bars"></canvas>
+</div>
+
+<div class="heading">
+<h3>Mój aktualny performance programistyczny:</h3>
+
+</div>
+<div class="subheading">
+<h4>Osiągnięcia na Codewars.com</h4>
+</div>
+
+  <div style="width:500px;height:500px;margin-left: auto; margin-right: auto; background-color: lightgray; padding: 10px;">
+        <canvas id="difficulty_cake"></canvas>
+      </div>
+
+      <div style="text-align: center"> 
+<a href="https://www.codewars.com/users/MichalKoder" target="_blank"><img width="500px" src="https://www.codewars.com/users/MichalKoder/badges/large"></img></a>
+   <!-- <button onclick="drawChart(myconf);">Click me</button>  -->
+    </div>
+
+ <div class="subheading">
+   <h4>Specyfika rozwiązywanych problemów (oznaczenia wyzwań)</h3>
+<img src="img/tagi.png" alt="tabelka z charakterem problemów">
+
+ </div>  
+
+<script>
+function infocontent(param)
+{
+    var contentViewTop = $(window).scrollTop();
+    var contentViewBottom = contentViewTop + $(window).height();
+
+    var scrolltop = $(param).offset().top;
+    var elementBottom = scrolltop + $(param).height();
+
+    return ((elementBottom <= contentViewBottom) && (scrolltop >= contentViewTop));
+}
+  $(window).scroll(function(){
+   if (infocontent($('#difficulty_cake'))){
+       drawChart(myconf);
+    }
+    if (infocontent($('#chrono_bars'))){
+  drawChrono();
+       
+    }
+})
+
+  
+</script>
+
