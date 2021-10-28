@@ -8,29 +8,25 @@
     <link rel="stylesheet" type="text/css" href="style.css" />
     <link rel ="stylesheet" type="text/css" href="vendor\twbs\bootstrap\dist\css\bootstrap.css" />
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-    <script type="text/javascript">
-      $(document).ready(function() {
-           $('#maincanvas').load('./projects.html');
-         });
-   </script>
+
 </head>
 <body>
 <header>
   <div id="nav_top" class="container">
     <nav class="navbar navbar-expand navbar-light" style="background-color: #a1a1a1;">
       <div class="container-fluid">
-        <a class="navbar-brand" href="" style="padding: 5px 40px 5px 20px">
+        <a class="navbar-brand" href="./index.html" style="padding: 5px 40px 5px 20px">
           <img id="logo" src="img/msportfolio_logo.png" alt="logo" width="90" height="72">
         </a>
         <ul class="navbar-nav flex-grow-1 pe-3">
           <li class="nav-item px-4">
-            <a class="nav-link" href="javascript:void(0);" onclick="$('#maincanvas').load('projects.html'); $('#nav_bottom').show();">Projekty</a>
+            <a class="nav-link" href="./index.html">Projekty</a>
           </li>  
           <li class="nav-item px-4">
-            <a class="nav-link" href="javascript:void(0);" onclick="$('#maincanvas').load('programmer.html');$('#nav_bottom').hide();">Profil programisty</a>
+            <a class="nav-link" href="./programmer.html" onclick="$('#nav_bottom').hide();">Profil programisty</a>
           </li>  
           <li class="nav-item px-4">
-            <a class="nav-link" href="javascript:void(0);" onclick="$('#maincanvas').load('aboutme.html');$('#nav_bottom').hide();">O mnie</a>
+            <a class="nav-link" href="./aboutme.html" onclick="$('#nav_bottom').hide();">O mnie</a>
           </li>  
         </ul>
       </div>
@@ -69,6 +65,116 @@
 
 </header>
 <div id="maincanvas">
+<!-- nested projects.html page starts here -->
+
+<div id="main">
+
+  <div id="grid_wrapper">
+    <div class="heading">
+      <h3>
+        Moje wybrane projekty programistyczne
+      </h3>
+</div>
+    <div id="tiles">
+      <div id="backend">
+
+        <h3>#backend #PHP</h3>
+      </div>
+      <div id="biblioteka_hdr">
+        <h4>Biblioteka</h4>
+        
+      </div>    
+          <div id="biblioteka_cover"><a href="http://michal.sytes.net/biblioteka" target="_blank"><img src="./img/icons/livedemo_opaque_rightcorner2.svg" style=" position: relative; left: 86%; top: 86%"></img>
+          </a>
+          </div>
+      
+        <div id="segregacja_hdr">
+          <h4>Segregacja</h4>
+        </div>
+            <div id="segregacja_cover"></div>
+        <div id="todo_hdr">
+            <h4>Terminarz</h4>
+        </div>  
+            <div id="todo_cover"><a href="http://michal.sytes.net/terminarz" target="_blank"><img src="./img/icons/livedemo_opaque_rightcorner2.svg" style=" position: relative; left: 86%; top: 86%"></img>
+            </a></div>
+        <div id="biblioteka_side">
+          Symulacja systemu bibliotecznego. <br/>Przykład aplikacji bazodanowej napisanej w czystym PHP bez frameworku z interfejsem graficznym w HTML+CSS+JS.<br><br> 
+          Dane logowania do aplikacji:<br>
+          Pracownik: 1000001 root <br>
+          Klient:    9000001 qwert<br>
+          <br><em>Dnia 29.10.br zostanie dodana logika biznesowa niniejszej aplikacji</em>
+
+        </div>
+        <div id="segregacja_side">
+          Pomóż środowisku i naucz się podstawowych zasad segregacji odpadów
+        </div>
+        <div id="todo_side">
+          Program do tworzenia listy zadań do wykonania (ang. "todo app") z zaznaczeniem czasu, czyli jest to już bardziej terminarz. <br />
+          Aplikacja ta od strony backendu z powodu nieskomplikowanych relacji i zapytań, bazuje na bezpośrednim parsowaniu pliku JSON, wystawiając swój interfejs REST API do łatwej integracji usługi którą niesie z dowolnymi aplikacjami np. desktopowymi, mobilnymi, webowymi.
+
+        </div>
+
+    <div id="frontend">
+      <h3>#frontend #js</h3>
+    </div>
+    <div id="kalkulator_hdr">
+    <h4>Kalkulator</h4>
+    </div>
+            <div id="kalkulator_cover"><a href="https://michalkoder.github.io/js_calc/" target="_blank"><img src="./img/icons/livedemo_opaque_rightcorner2.svg" style=" position: relative; left: 86%; top: 86%">
+            </a>
+          </div>
+        <div id="ukladanka_hdr">
+        <h4>Przesuwanka</h4>
+        </div>
+            <div id="ukladanka_cover"><a href="https://michalkoder.github.io/puzzle-eight/" target="_blank"><img src="./img/icons/livedemo_opaque_rightcorner2.svg" style=" position: relative; left: 86%; top: 86%">
+            </a>
+          </div>
+        <div id="memory_hdr">
+        <h4>Memory</h4>
+        </div>
+            <div id="memory_cover"><a href="https://michalkoder.github.io/memory-picturesque/" target="_blank"><img src="./img/icons/livedemo_opaque_rightcorner2.svg" style=" position: relative; left: 86%; top: 86%">
+            </a>
+          </div>
+
+        <div id="kalkulator_side">
+            Kalkulator napisany w JavaScript w koncepcji maszyny stanów. 
+            Cechą odróżniającą ten kalkulator od pospolitych liczydeł jest to, iż oprócz możliwości wykonania prostych obliczeń arytmetycznych, program demonstruje działanie maszyny stanów na dołączonym diagramie. 
+        </div>
+        <div id="ukladanka_side">
+            Klasyczna gra polegająca na ułożeniu przesuwanych klocków w ustalonym porządku.<br/>
+            W najbliższym czasie planowane jest:
+            <ul>
+                <li>Implementacja algorytmu MCTS sztucznej inteligencji w celu znajdowania najkrótszej ścieżki prowadzącej do rozwiązania</li>
+                <li>Zlikwidowanie znanego buga związanego z losowaniem nierozwiązywalnego początkowego układu cyfr</li>
+            </ul>
+        </div>
+        <div id="memory_side"><a style="display:block" href="https://github.com/michalkoder/memory-picturesque.git" target="_blank"><img src="./img/icons/kod_zrodlowy.svg"></a>Klasyczna jednoosobowa gra karciana do ćwiczenia pamięci stworzona z zamysłem wielu barwnych motywów i możliwością rozbudowy przez globalną społeczność internetową.
+          Jest to założony przeze mnie typowy projekt open-source tzw. "do rozdania" (ang. "up-for-grabs").
+          Zagrać w grę możecie najprościej klikając link "live-demo" na kafelku po lewej stronie.
+      </div>
+
+  </div> <!-- end #main grid container-->
+
+</div> <!-- grid-wrapper end-->
+<div id="sideright">
+  <h4>Lista projektów:</h4>
+<ul>
+  <li><a href="#">Ta strona <span style="font-size: 12px;">&#x1F609;</span></a></li>
+  <li><a href="#biblioteka_hdr">Biblioteka</a></li>
+  <li><a href="#terminarz_hdr">Terminarz</a></li>
+  <li><a href="#kalkulator_hdr">Kalkulator</a></li>
+  <li><a href="#ukladanka_hdr">Przesuwanka</a></li>
+  <li><a href="#memory_hdr">Memory</a></li>
+</ul>
+
+  </div> 
+</div><!-- flexbox end -->
+
+
+
+
+
+<!-- nested projects.html page ends here -->
 
 </div> <!-- main canvas end -->
     <footer>
