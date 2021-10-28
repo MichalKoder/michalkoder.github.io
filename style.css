@@ -42,8 +42,8 @@ div#tiles {
     column-gap: 15px;
     /* border: 1px solid black; */
     /* border-bottom-style: dashed; */
-    min-width: 700px;
-    max-width: 900px;
+    /* min-width: 700px;
+    max-width: 900px; */
     height: auto;
     margin-left: 10px;
     margin-right: auto;
@@ -239,7 +239,7 @@ footer div#footer_center {
 }
 
 div#sideright {
- width: 25%;
+ width: 100%;
  border-left: 1px dashed lightgray; 
  border-bottom: 1px dashed lightgray;
  background-color: #a1a1a1;
@@ -317,3 +317,20 @@ header div#nav_bottom {
     
 }
 
+#chronobars_frame {
+    max-width: 600px;
+    max-height: 300px;
+}
+
+@media only screen and (max-width: 900px){
+    /* For mobile phones: */
+    #nav_top ul li{
+      font-size: 18px;
+    }
+  }
+@media only screen and (max-width: 800px){
+    /* For mobile phones: */
+    #nav_top ul li{
+      font-size: 14px;
+    }
+  }
