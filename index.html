@@ -10,7 +10,7 @@
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script type="text/javascript">
       $(document).ready(function() {
-           $('#maincanvas').load('projects.html');
+           $('#maincanvas').load('./projects.html');
          });
    </script>
 </head>
@@ -22,7 +22,7 @@
         <a class="navbar-brand" href="" style="padding: 5px 40px 5px 20px">
           <img id="logo" src="img/msportfolio_logo.png" alt="logo" width="90" height="72">
         </a>
-        <ul class="navbar-nav flex-grow-1 pe-3"> <!-- me-auto mb-2 mb-lg-0"> -->
+        <ul class="navbar-nav flex-grow-1 pe-3">
           <li class="nav-item px-4">
             <a class="nav-link" href="javascript:void(0);" onclick="$('#maincanvas').load('projects.html'); $('#nav_bottom').show();">Projekty</a>
           </li>  
@@ -34,7 +34,6 @@
           </li>  
         </ul>
       </div>
-    
     </nav>
   </div>
   <!-- Bootstrap element here -->
@@ -45,7 +44,7 @@
         Kategorie projektów: <img src="img/arrow_right.png" />
       </span>
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav justify-content-center flex-grow-1 pe-3"> <!-- me-auto mb-2 mb-lg-0"> -->
+        <ul class="navbar-nav justify-content-center flex-grow-1 pe-3">
           <li class="nav-item">
             <a class="nav-link" href="#backend">PHP</a>
           </li>  
@@ -72,10 +71,6 @@
 <div id="maincanvas">
 
 </div> <!-- main canvas end -->
-    
-    
-
-    
     <footer>
     <div id="footer_center">
      <p>Copyright &copy; 2021 Michał Sapiński. All rights reserved.</p><p style="text-align: center;">
@@ -83,13 +78,6 @@
      <a href="mailto://sapinski.michal@gmail.com" target="_blank" style="text-decoration: none; color: gray;"><img src="img/bootstrap-icons-1.5.0/envelope.svg"></img></a>
      </p></p>
     </div>
-     <!-- <div id="footer_right">
-     <a href="https://www.linkedin.com/in/michalsapinski000/" target="_blank"><img src="img/bootstrap-icons-1.5.0/linkedin.svg" /></a>
-     <img src="img/bootstrap-icons-1.5.0/facebook.svg" />
-     <img src="img/bootstrap-icons-1.5.0/instagram.svg" />
-     <img src="img/bootstrap-icons-1.5.0/twitter.svg" />
-     <img src="img/bootstrap-icons-1.5.0/youtube.svg" />
-    </div> -->
      
     </footer>
 

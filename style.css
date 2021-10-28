@@ -238,14 +238,6 @@ footer div#footer_center {
     width: fit-content;
 }
 
-footer div#footer_right {
-    float: right;
-    border: 1px solid rgb(226, 35, 35);
-    width: 100px;
-    height: 50px;
-}
-
-
 div#sideright {
  width: 25%;
  border-left: 1px dashed lightgray; 
