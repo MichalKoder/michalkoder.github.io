@@ -67,14 +67,14 @@
 <div id="maincanvas">
 <!-- nested programmer.html page starts here -->
 
-<script src="drawMyChart.js">
+<script src="drawMyChart.js" type="text/javascript">
 </script>
-<script>var myconf = prepareChart();</script>
+<script type="text/javascript">var myconf = prepareChart();</script>
 
 
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js" type="text/javascript"></script>
 
-<script>
+<script type="text/javascript">
   function drawChrono() {
   const labels2 = ['Basic','AC Logo', 'Batch', 'Turbo Pascal', 'Assembler', 'C++', 'C#', 'Verilog/VHDL', 'Bash', 'Java', 'PHP', 'JavaScript'];
       const data2 = {
@@ -130,6 +130,8 @@
   </div>
   <div class="subheading">
   <p>
+    <button id="test">jQuery TEST</button>
+
     Moją przygodę z komputerami i językami programowania zacząłem będąc jeszcze w szkole podstawowej w latach 90 ubiegłego stulecia.
     Jak to dzieciaki, zużyliśmy wtedy wiele styków od joysticków grając w przeróżne gry. </p>
     <p>Z tamtego czasu pamiętam swoją pierwszą książke od Basica i poczucie kontroli nad Atari, a później Amigą kiedy to udało mi się wyświetlić na ekranie choinkę, odliczanie do ogromnej liczby, czy też błyskawice w trybie graficznym z odgłosami.
@@ -176,7 +178,7 @@
 
  </div>  
 
-<script>
+<script type="text/javascript">
 function infocontent(param)
 {
     var contentViewTop = $(window).scrollTop();
@@ -197,6 +199,9 @@ function infocontent(param)
     }
 })
 
+$('#test').click(function() {
+alert("jQuery is working!")
+})
   
 </script>
 
@@ -214,7 +219,6 @@ function infocontent(param)
      <a href="mailto://sapinski.michal@gmail.com" target="_blank" style="text-decoration: none; color: gray;"><img src="img/bootstrap-icons-1.5.0/envelope.svg"></img></a>
      </p></p>
     </div>
-     
     </footer>
 
 
