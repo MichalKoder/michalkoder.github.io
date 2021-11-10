@@ -18,47 +18,20 @@
           <img id="logo" src="img/msportfolio_logo.png" alt="logo m.s. portfolio" width="90" height="72" />
         </a>
         <ul class="navbar-nav flex-grow-1 pe-3">
-          <li class="nav-item px-4">
+          <li class="nav-item px-4 navLi">
             <a class="nav-link" href="./index.html">Projekty</a>
           </li>  
-          <li class="nav-item px-4">
-            <a class="nav-link" href="./programmer.html" onclick="$('#nav_bottom').hide();">Profil programisty</a>
+          <li class="nav-item px-4 navLi">
+            <a class="nav-link active" href="./programmer.html" onclick="$('#nav_bottom').hide();">Profil programisty</a>
           </li>  
-          <li class="nav-item px-4">
+          <li class="nav-item px-4 navLi">
             <a class="nav-link" href="./aboutme.html" onclick="$('#nav_bottom').hide();">O mnie</a>
           </li>  
         </ul>
       </div>
     </nav>
   </div>
-  <!-- Bootstrap element here -->
-  <div id='nav_bottom' class="container">
-  <nav class="navbar fixed-bottom navbar-expand navbar-light" style="background-color: #a1a1a1;">
-    <div class="container-fluid">
-      <span class="navbar-text">
-        Kategorie projektów <img src="img/arrow_right.png" alt="" />
-      </span>
-      <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav justify-content-center flex-grow-1 pe-3">
-          <li class="nav-item">
-            <a class="nav-link" href="#backend">PHP</a>
-          </li>  
-          <li class="nav-link"> | </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#frontend">JavaScript</a>
-          </li>
-        </ul>
-        <a class="navbar-brand" href="#">
-          <img src="img/goto_top.png" alt="początek strony" width="24" height="24" />
-        </a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-        </button>
-      </div>
-    </div>
-  </nav>
-</div>
-  <!-- end of bootstrap element -->
+
 
 </header>
 <div id="maincanvas">
@@ -213,7 +186,12 @@ function infocontent(param)
     </div>
     </footer>
 
-
+<script>
+      $(document).on('click', '.navLi', function(event) {
+        $('.navLi').removeClass('active');
+        $(this).addClass('active');
+    });
+</script>
 </body>
 </html>
 

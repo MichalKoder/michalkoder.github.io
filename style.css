@@ -322,6 +322,10 @@ header div#nav_bottom {
     max-height: 300px;
 }
 
+.active {
+    font-weight: stronger;
+}
+
 @media only screen and (max-width: 900px){
     /* For mobile phones: */
     #nav_top ul li{

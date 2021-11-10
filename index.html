@@ -19,13 +19,13 @@
           <img id="logo" src="img/msportfolio_logo.png" alt="logo m.s. portfolio" width="90" height="72" />
         </a>
         <ul class="navbar-nav flex-grow-1 pe-3">
-          <li class="nav-item px-4">
-            <a class="nav-link" href="./index.html">Projekty</a>
+          <li class="nav-item px-4 navLi">
+            <a class="nav-link active" href="./index.html">Projekty</a>
           </li>  
-          <li class="nav-item px-4">
+          <li class="nav-item px-4 navLi">
             <a class="nav-link" href="./programmer.html" onclick="$('#nav_bottom').hide();">Profil programisty</a>
           </li>  
-          <li class="nav-item px-4">
+          <li class="nav-item px-4 navLi">
             <a class="nav-link" href="./aboutme.html" onclick="$('#nav_bottom').hide();">O mnie</a>
           </li>  
         </ul>
@@ -184,6 +184,10 @@
     </footer>
 
 <script>
+    $(document).on('click', '.navLi', function(event) {
+        $('.navLi').removeClass('active');
+        $(this).addClass('active');
+    });
 
 </script>
 </body>
