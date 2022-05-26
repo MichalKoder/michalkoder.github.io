@@ -72,14 +72,14 @@ div#backend {
 
 }
 
-div#biblioteka_hdr {
+div#testmaker_hdr {
     color: steelblue;
     grid-row: 2/3;
     grid-column: 1/2;
 }
 
-div#biblioteka_cover {
-    background-image: url('img/biblioteka.png');
+div#testmaker_cover {
+    background-image: url('img/testmaker.png');
     background-size: 300px 300px;
     width: 300px;
     height: 300px;
@@ -88,55 +88,8 @@ div#biblioteka_cover {
     /* border: 1px solid red; */
 }
 
-div#biblioteka_side {
+div#testmaker_side {
     grid-row: 3/4;
-    grid-column: 2/4;
-    /* border: 1px solid blue; */
-}
-
-div#segregacja_hdr {
-    color: steelblue;
-    grid-row: 4/5;
-    grid-column: 1/2;
-    display: none;
-
-}
-
-div#segregacja_cover {
-    background-image: url('img/segregacja.png');
-    background-size: 300px 300px;
-    width: 300px;
-    height: 300px;
-    grid-row: 5/6;
-    grid-column: 1/2;
-    display: none;
-
-}
-
-div#segregacja_side {
-    grid-row: 5/6;
-    grid-column: 2/4;
-    /* border: 1px solid steelblue; */
-    display: none;
-}
-
-div#todo_hdr {
-    color: steelblue;
-    grid-row: 6/7;
-    grid-column: 1/2;
-}
-
-div#todo_cover {
-    background-image: url('img/todo.png');
-    background-size: 300px 300px;
-    width: 300px;
-    height: 300px;
-    grid-row: 7/8;
-    grid-column: 1/2;
-}
-
-div#todo_side {
-    grid-row: 7/8;
     grid-column: 2/4;
     /* border: 1px solid blue; */
 }
@@ -150,27 +103,6 @@ div#frontend {
     padding-top: 25px;
 }
 
-div#kalkulator_hdr {
-    color: steelblue;
-    grid-row: 9/10;
-    grid-column: 1/2;
-}
-
-
-div#kalkulator_cover {
-    background-image: url('img/kalkulator.png');
-    background-size: 300px 300px;
-    width: 300px;
-    height: 300px;
-    grid-row: 10/11;
-    grid-column: 1/2;
-}
-
-div#kalkulator_side {
-    grid-row: 10/11;
-    grid-column: 2/4;
-    /* border: 1px solid blue; */
-}
 
 div#ukladanka_hdr {
     color: steelblue;
